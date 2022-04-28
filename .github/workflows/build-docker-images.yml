@@ -1,0 +1,64 @@
+name: Build Docker images
+
+on:
+  workflow_dispatch:
+  push:
+#    tags:
+#       - '*'
+
+env:
+  AWS_REGION: eu-west-1
+
+jobs:
+  build-backend:
+    name: Build image - website
+    runs-on: ubuntu-latest
+    environment: production
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@13d241b293754004c80624b5567555c4a39ffbe3
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@aaf69d68aa3fb14c1d5a6be9ac61fe15b48453a2
+
+      - name: Build, tag, and push image to Amazon ECR
+        id: build-image
+        env:
+          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+          ECR_REPOSITORY: datalix-website
+          IMAGE_TAG: ${{ github.sha }}
+        run: |
+          env
+          docker build -t ${ECR_REGISTRY}/${ECR_REPOSITORY}:${IMAGE_TAG} -f infrastructure/images/website/Dockerfile .
+          docker push ${ECR_REGISTRY}/${ECR_REPOSITORY}:${IMAGE_TAG}
+          echo "::set-output name=image::${ECR_REGISTRY}/${ECR_REPOSITORY}:${IMAGE_TAG}"
+
+#  deploy-backend-stg:
+#    uses: bedri-allkja/entalgo_backend/.github/workflows/deploy-to-eks.yml@pipeline
+#    needs: [build-backend, build-worker]
+#    secrets:
+#      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+#      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+#    with:
+#      eks_cluster_name: datalix-shared
+#      helm_command: helm upgrade --wait --install datalix-stage-backend -n datalix-stage -f infrastructure/k8s/backend/values-stage.yaml --set image.tag=${{ github.sha }} infrastructure/k8s/backend
+#
+#
+#  deploy-backend-prod:
+#    uses: bedri-allkja/entalgo_backend/.github/workflows/deploy-to-eks.yml@pipeline
+#    needs: [build-backend, build-worker]
+#    secrets:
+#      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+#      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+#    with:
+#      eks_cluster_name: datalix-shared
+#      helm_command: helm upgrade --wait --install datalix-prod-backend -n datalix-prod -f infrastructure/k8s/backend/values-prod.yaml --set image.tag=${{ github.sha }} infrastructure/k8s/backend
