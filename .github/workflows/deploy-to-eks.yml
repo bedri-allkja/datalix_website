@@ -1,0 +1,47 @@
+## Perform on-demand deploy to AWS
+#name: Deploy to AWS
+#on:
+#  workflow_call:
+#    secrets:
+#      AWS_ACCESS_KEY_ID:
+#        required: true
+#      AWS_SECRET_ACCESS_KEY:
+#        required: true
+#    inputs:
+#      eks_cluster_name:
+#        description: EKS cluster name where image will be deployed
+#        required: true
+#        type: string
+#      helm_command:
+#        description: Helm command used to deploy image
+#        required: true
+#        type: string
+#
+#jobs:
+#  deploy-in-docker:
+#    runs-on: ubuntu-latest
+#    container:
+#      image: dkossako/helm-eks-deploy:latest
+#      env:
+#        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+#        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+#        AWS_DEFAULT_REGION: eu-west-1
+#        AWS_EKS_CLUSTER_NAME: ${{ inputs.eks_cluster_name }}
+#    steps:
+#      - name: Check tools versions
+#        run: |
+#          helm version
+#          aws --version
+#          env | sort
+#
+#      - name: Checkout
+#        uses: actions/checkout@v3
+#
+#      - name: AWS verification
+#        run: |
+#          aws sts get-caller-identity
+#          aws eks update-kubeconfig --name ${AWS_EKS_CLUSTER_NAME}
+#          kubectl get pods
+#
+#      - name: Run in container
+#        run: ${{ inputs.helm_command }}
