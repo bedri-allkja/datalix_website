@@ -10,7 +10,7 @@ env:
   AWS_REGION: eu-west-1
 
 jobs:
-  build-backend:
+  build-website:
     name: Build image - website
     runs-on: ubuntu-latest
     environment: production
@@ -42,23 +42,23 @@ jobs:
           docker push ${ECR_REGISTRY}/${ECR_REPOSITORY}:${IMAGE_TAG}
           echo "::set-output name=image::${ECR_REGISTRY}/${ECR_REPOSITORY}:${IMAGE_TAG}"
 
-#  deploy-backend-stg:
-#    uses: bedri-allkja/entalgo_backend/.github/workflows/deploy-to-eks.yml@pipeline
-#    needs: [build-backend, build-worker]
+#  deploy-website-stg:
+#    uses: bedri-allkja/entalgo_website/.github/workflows/deploy-to-eks.yml@pipeline
+#    needs: [build-website]
 #    secrets:
 #      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
 #      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 #    with:
 #      eks_cluster_name: datalix-shared
-#      helm_command: helm upgrade --wait --install datalix-stage-backend -n datalix-stage -f infrastructure/k8s/backend/values-stage.yaml --set image.tag=${{ github.sha }} infrastructure/k8s/backend
+#      helm_command: helm upgrade --wait --install datalix-stage-website -n datalix-stage -f infrastructure/k8s/website/values-stage.yaml --set image.tag=${{ github.sha }} infrastructure/k8s/website
 #
 #
-#  deploy-backend-prod:
-#    uses: bedri-allkja/entalgo_backend/.github/workflows/deploy-to-eks.yml@pipeline
-#    needs: [build-backend, build-worker]
+#  deploy-website-prod:
+#    uses: bedri-allkja/entalgo_website/.github/workflows/deploy-to-eks.yml@pipeline
+#    needs: [build-website]
 #    secrets:
 #      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
 #      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 #    with:
 #      eks_cluster_name: datalix-shared
-#      helm_command: helm upgrade --wait --install datalix-prod-backend -n datalix-prod -f infrastructure/k8s/backend/values-prod.yaml --set image.tag=${{ github.sha }} infrastructure/k8s/backend
+#      helm_command: helm upgrade --wait --install datalix-prod-website -n datalix-prod -f infrastructure/k8s/website/values-prod.yaml --set image.tag=${{ github.sha }} infrastructure/k8s/website
