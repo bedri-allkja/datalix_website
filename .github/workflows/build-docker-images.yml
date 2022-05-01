@@ -42,23 +42,27 @@ jobs:
           docker push ${ECR_REGISTRY}/${ECR_REPOSITORY}:${IMAGE_TAG}
           echo "::set-output name=image::${ECR_REGISTRY}/${ECR_REPOSITORY}:${IMAGE_TAG}"
 
-#  deploy-website-stg:
-#    uses: bedri-allkja/entalgo_website/.github/workflows/deploy-to-eks.yml@pipeline
-#    needs: [build-website]
-#    secrets:
-#      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-#      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-#    with:
-#      eks_cluster_name: datalix-shared
-#      helm_command: helm upgrade --wait --install datalix-stage-website -n datalix-stage -f infrastructure/k8s/website/values-stage.yaml --set image.tag=${{ github.sha }} infrastructure/k8s/website
-#
-#
-#  deploy-website-prod:
-#    uses: bedri-allkja/entalgo_website/.github/workflows/deploy-to-eks.yml@pipeline
-#    needs: [build-website]
-#    secrets:
-#      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-#      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-#    with:
-#      eks_cluster_name: datalix-shared
-#      helm_command: helm upgrade --wait --install datalix-prod-website -n datalix-prod -f infrastructure/k8s/website/values-prod.yaml --set image.tag=${{ github.sha }} infrastructure/k8s/website
+  deploy-website-stg:
+    uses: bedri-allkja/datalix-website/.github/workflows/deploy-to-eks.yml@develop
+    needs: [build-website]
+    secrets:
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+    with:
+      eks_cluster_name: datalix-shared
+      helm_command: |
+        helm repo add bitnami https://charts.bitnami.com/bitnami
+        helm upgrade --wait --install datalix-stage-website -n datalix-stage -f infrastructure/k8s/website/values-stage.yaml --set image.tag=${{ github.sha }} bitnami/wordpress
+
+
+  deploy-website-prod:
+    uses: bedri-allkja/datalix-website/.github/workflows/deploy-to-eks.yml@develop
+    needs: [build-website]
+    secrets:
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+    with:
+      eks_cluster_name: datalix-shared
+      helm_command: |
+        helm repo add bitnami https://charts.bitnami.com/bitnami
+        helm upgrade --wait --install datalix-prod-website -n datalix-prod -f infrastructure/k8s/website/values-prod.yaml --set image.tag=${{ github.sha }} bitnami/wordpress

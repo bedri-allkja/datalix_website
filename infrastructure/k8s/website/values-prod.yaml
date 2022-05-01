@@ -588,7 +588,7 @@ ingress:
   ingressClassName: ""
   ## @param ingress.hostname Default host for the ingress record
   ##
-  hostname: stg.datalix.com
+  hostname: datalix.com
   ## @param ingress.path Default path for the ingress record
   ## NOTE: You may need to set this to '/*' in order to use this with ALB ingress controllers
   ##
@@ -608,12 +608,12 @@ ingress:
     kubernetes.io/ingress.class: alb
     alb.ingress.kubernetes.io/scheme: internet-facing
     alb.ingress.kubernetes.io/target-type: 'ip'
-    alb.ingress.kubernetes.io/group.name: ingress-datalix-stage
+    alb.ingress.kubernetes.io/group.name: ingress-datalix-prod
     alb.ingress.kubernetes.io/group.order: '80'
     alb.ingress.kubernetes.io/listen-ports: '[{"HTTP": 80}, {"HTTPS":443}]'
     alb.ingress.kubernetes.io/actions.ssl-redirect: '{"Type": "redirect", "RedirectConfig":
       { "Protocol": "HTTPS", "Port": "443", "StatusCode": "HTTP_301"}}'
-    alb.ingress.kubernetes.io/certificate-arn: arn:aws:acm:eu-west-1:381097678762:certificate/cd937882-010a-4a0a-8245-3bc4f8b0ca1b
+    alb.ingress.kubernetes.io/certificate-arn: arn:aws:acm:eu-west-1:381097678762:certificate/8c093cfb-ec09-444d-b90e-200de2a0a4d9
   ## @param ingress.tls Enable TLS configuration for the host defined at `ingress.hostname` parameter
   ## TLS certificates will be retrieved from a TLS secret with name: `{{- printf "%s-tls" .Values.ingress.hostname }}`
   ## You can:
@@ -1104,7 +1104,7 @@ mariadb:
 externalDatabase:
   ## @param externalDatabase.host External Database server host
   ##
-  host: stage-mysql.cluster-coj5kr2scvj9.eu-west-1.rds.amazonaws.com
+  host: production-mysql.cluster-coj5kr2scvj9.eu-west-1.rds.amazonaws.com
   ## @param externalDatabase.port External Database server port
   ##
   port: 3306
@@ -1113,7 +1113,7 @@ externalDatabase:
   user: datalix_website
   ## @param externalDatabase.password External Database user password
   ##
-  password: "!8Yna#3!YJAu"
+  password: "w9zBYUh&YxA!"
   ## @param externalDatabase.database External Database database name
   ##
   database: datalix_website
