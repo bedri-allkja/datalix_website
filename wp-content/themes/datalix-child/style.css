@@ -1079,12 +1079,14 @@ body h1 {
 .tabs ul li label .tab-text .tab-title{
     font-size: 16px;
     font-weight: bold;
+    font-family: Poppins;
     margin-top: -2px;
 }
 
 .tabs ul li label .tab-text .tab-info{
     font-size: 12px;
     font-weight: normal;
+    font-family: Poppins;
     width: 100%;
     opacity: .7;
 }

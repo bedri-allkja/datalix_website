@@ -24,7 +24,7 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
     <div class="container custom-container">
         <div class="row header-menu">
             <div class="col-8 left-menu">
-                <a href="entalgo-index.html">
+                <a href="http://localhost/datalix-website/">
                     <img src="http://localhost/datalix-website/wp-content/themes/datalix-child/assets/img/datalix.png" class="logo">
                 </a>
                 <div class="menu-items">
@@ -59,7 +59,7 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
                             </div>
                         </a>
                     </div>
-                    <a href="pricing.html">Pricing</a>
+                    <a href="pricing">Pricing</a>
                     <a href="" id="about-drop">Why Datalix?</a>
                     <div id="about">
                         <div class="sub-item">
@@ -69,7 +69,7 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
                                 <div class="sub-title">Lorem ipsum dolor sit amet.</div>
                             </div>
                         </div>
-                        <a href="contact-us.html" class="sub-item">
+                        <a href="contact-us" class="sub-item">
                             <img style="width: 28px;" src="http://localhost/datalix-website/wp-content/themes/datalix-child/assets/img/insurance.svg">
                             <div class="data">
                                 <div class="title">Contact Us</div>
@@ -83,8 +83,8 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
                 </div>
             </div>
             <div class="col right-menu">
-                <a href="" class="outline-btn">Login</a>
-                <a href="" style="margin-left: 15px;">Get Started</a>
+                <a href="https://app.datalix.com/" class="outline-btn">Login</a>
+                <a href="https://app.datalix.com/auth/register" style="margin-left: 15px;">Get Started</a>
             </div>
         </div>
     </div>
