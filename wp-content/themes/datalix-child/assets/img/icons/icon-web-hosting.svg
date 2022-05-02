@@ -1,0 +1,20 @@
+<svg width="140" height="120" viewBox="0 0 140 120" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M110 60C110 93.1371 93.1371 120 60 120C26.8629 120 0 93.1371 0 60C0 26.8629 26.8629 10 60 10C93.1371 10 110 26.8629 110 60Z" fill="#F3F5F9"/>
+<circle cx="80" cy="60" r="60" fill="url(#pattern0)" fill-opacity="0.03"/>
+<path d="M27.75 93.75H50.25" stroke="#0069FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M39 84.75V93.75" stroke="#0069FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5.25 73.5H72.75" stroke="#0069FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M68.25 33C69.4435 33 70.5881 33.4741 71.432 34.318C72.2759 35.1619 72.75 36.3065 72.75 37.5V80.25C72.75 81.4435 72.2759 82.5881 71.432 83.432C70.5881 84.2759 69.4435 84.75 68.25 84.75H9.75C8.55653 84.75 7.41193 84.2759 6.56802 83.432C5.72411 82.5881 5.25 81.4435 5.25 80.25V37.5C5.25 36.3065 5.72411 35.1619 6.56802 34.318C7.41193 33.4741 8.55653 33 9.75 33" stroke="#0069FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18.75 64.5V30.75C18.75 29.5565 19.2241 28.4119 20.068 27.568C20.9119 26.7241 22.0565 26.25 23.25 26.25H54.75C55.9435 26.25 57.0881 26.7241 57.932 27.568C58.7759 28.4119 59.25 29.5565 59.25 30.75V64.5" stroke="#0069FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M36.75 44.25H27.75V53.25H36.75V44.25Z" stroke="#0069FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18.75 35.25H59.25" stroke="#0069FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45.75 44.25H50.25" stroke="#0069FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45.75 51H50.25" stroke="#0069FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28 60H50.5" stroke="#0069FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="0.2" height="0.2">
+<use xlink:href="#image0" transform="scale(0.00833333)"/>
+</pattern>
+<image id="image0" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAADxJREFUSA3t0rEJAEAIxdDv7b+z3gYpxC7WQeFhcjv9bvcnHkBhiSRCAQz8IolQAAO/SCIUwKB+0VgtggHmUQIsFeZn2wAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>
