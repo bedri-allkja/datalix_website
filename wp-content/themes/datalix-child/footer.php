@@ -18,6 +18,7 @@
 
 <!--	--><?php //get_template_part( 'template-parts/footer/footer-widgets' ); ?>
 
+
     <div class="container page-container">
         <br><br>
         <div class="row features">
@@ -101,6 +102,7 @@
                 <div class="col-6">
                     <div class="footer-bttm-text">Copyright © <span class="footer-span text-span-6">Datalix, LLC.</span>
                         2021 &nbsp;| &nbsp;All rights reserved. &nbsp;| &nbsp;<a href="https://stg.datalix.com/wp-content/themes/datalix-child/privacy-policy"
+
                                                                                  class="link-2"><span
                                     class="text-span-6" style="color: white;">Privacy</span></a></div>
                 </div>

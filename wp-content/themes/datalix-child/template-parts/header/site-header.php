@@ -32,6 +32,7 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
                     <div id="services">
                         <a href="services/lead-generation.html" class="sub-item">
                             <img style="width: 28px;" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/search.svg">
+
                             <div class="data">
                                 <div class="title">Lead Generation</div>
                                 <div class="sub-title">Lorem ipsum dolor sit amet.</div>
