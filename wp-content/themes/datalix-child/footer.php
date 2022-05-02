@@ -16,7 +16,7 @@
 		</div><!-- #primary -->
 	</div><!-- #content -->
 
-	<?php get_template_part( 'template-parts/footer/footer-widgets' ); ?>
+<!--	--><?php //get_template_part( 'template-parts/footer/footer-widgets' ); ?>
 
     <div class="container page-container">
         <br><br>
