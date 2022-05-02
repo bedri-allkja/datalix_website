@@ -36,7 +36,7 @@
             </div>
 
             <div class="col-6 feature-image">
-                <img src="http://localhost/datalix-website/wp-content/themes/datalix-child/assets/img/call-to-action.svg">
+                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/call-to-action.svg">
             </div>
         </div>
 
@@ -50,7 +50,7 @@
             <div class="row">
                 <div class="col-6">
                     <div style="display: flex; justify-content: flex-start; flex-direction: column;">
-                        <img src="http://localhost/datalix-website/wp-content/themes/datalix-child/assets/img/datalix-white.png" style="width: 130px;">
+                        <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-white.png" style="width: 130px;">
                         <div style="font-size: 14px; max-width: 600px; margin-top: 20px; opacity: .8; line-height: 1.8;">
                             We create qualified sales opportunities by providing personalized data around niche data
                             segments and combining this data with multi-channel prospecting campaigns.
@@ -100,7 +100,7 @@
             <div class="row">
                 <div class="col-6">
                     <div class="footer-bttm-text">Copyright © <span class="footer-span text-span-6">Datalix, LLC.</span>
-                        2021 &nbsp;| &nbsp;All rights reserved. &nbsp;| &nbsp;<a href="http://localhost/datalix-website/wp-content/themes/datalix-child/privacy-policy"
+                        2021 &nbsp;| &nbsp;All rights reserved. &nbsp;| &nbsp;<a href="https://stg.datalix.com/wp-content/themes/datalix-child/privacy-policy"
                                                                                  class="link-2"><span
                                     class="text-span-6" style="color: white;">Privacy</span></a></div>
                 </div>
