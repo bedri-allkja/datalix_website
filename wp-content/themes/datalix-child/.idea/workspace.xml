@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecd2f3b3-582e-4e7c-9e9d-f58175286ba1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../plugins/akismet/akismet.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/akismet/akismet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/akismet/class.akismet-admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/akismet/class.akismet-admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/akismet/class.akismet.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/akismet/class.akismet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/akismet/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/akismet/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/akismet/views/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/akismet/views/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/akismet/views/connect-jp.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/akismet/views/connect-jp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/akismet/views/get.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/akismet/views/get.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/akismet/views/stats.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/akismet/views/stats.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/hello.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/.stylelintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/css/editor-style-block-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/css/editor-style-block.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/css/editor-style-classic-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/css/editor-style-classic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/fonts/inter/Inter-italic-var.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/fonts/inter/Inter-upright-var.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-landscape-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-landscape-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-square-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-square-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-three-quarters-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-three-quarters-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-three-quarters-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-three-quarters-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/js/color-calculations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/js/customize-controls.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/js/customize-preview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/js/customize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/js/editor-script-block.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/assets/js/skip-link-focus-fix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/classes/class-twentytwenty-customize.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/classes/class-twentytwenty-non-latin-languages.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/classes/class-twentytwenty-script-loader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/classes/class-twentytwenty-separator-control.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/classes/class-twentytwenty-svg-icons.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/classes/class-twentytwenty-walker-comment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/classes/class-twentytwenty-walker-page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/comments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/inc/block-patterns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/inc/custom-css.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/inc/starter-content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/inc/svg-icons.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/inc/template-tags.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/searchform.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/singular.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/style-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/template-parts/content-cover.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/template-parts/content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/template-parts/entry-author-bio.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/template-parts/entry-header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/template-parts/featured-image.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/template-parts/footer-menus-widgets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/template-parts/modal-menu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/template-parts/modal-search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/template-parts/navigation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/template-parts/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/templates/template-cover.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwenty/templates/template-full-width.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/.stylelintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/.stylelintrc-css.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/.stylelintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/archive.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/css/custom-color-overrides.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/css/ie-editor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/css/ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/css/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/css/style-dark-mode-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/css/style-dark-mode.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/css/style-editor-customizer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/css/style-editor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/images/Daffodils.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/images/Reading.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/images/in-the-bois-de-boulogne.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/images/playing-in-the-sand.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/images/roses-tremieres-hollyhocks-1884.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/images/self-portrait-1885.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/images/the-garden-at-bougival-1884.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/images/villa-with-orange-trees-nice.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/images/young-woman-in-mauve.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/js/customize-helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/js/customize-preview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/js/customize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/js/dark-mode-toggler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/js/editor-dark-mode-support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/js/editor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/js/palette-colorpicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/js/polyfills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/js/primary-navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/js/responsive-embeds.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/js/skip-link-focus-fix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/01-settings/file-header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/01-settings/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/01-settings/global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/02-tools/functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/02-tools/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/03-generic/breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/03-generic/clearings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/03-generic/normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/03-generic/reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/03-generic/vertical-margins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/04-elements/blockquote.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/04-elements/forms-editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/04-elements/forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/04-elements/links.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/04-elements/media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/04-elements/misc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/_config.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/audio/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/blocks-editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/blocks.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/button/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/button/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/code/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/code/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/columns/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/columns/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/cover/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/cover/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/file/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/file/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/gallery/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/gallery/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/group/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/group/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/heading/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/heading/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/html/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/image/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/image/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/latest-comments/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/latest-comments/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/latest-posts/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/latest-posts/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/legacy/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/legacy/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/list/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/list/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/media-text/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/media-text/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/navigation/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/navigation/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/paragraph/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/paragraph/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/preformatted/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/preformatted/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/pullquote/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/pullquote/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/query-loop/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/query-loop/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/quote/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/quote/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/rss/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/rss/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/search/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/search/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/separator/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/separator/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/social-icons/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/social-icons/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/spacer/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/table/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/table/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/tag-clould/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/tag-clould/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/utilities/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/utilities/_font-sizes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/utilities/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/verse/_editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/verse/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/video/_style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/404.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/archives.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/comments.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/entry.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/footer-navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/posts-and-pages.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/search.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/single.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/widgets.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/07-utilities/a11y.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/07-utilities/color-palette.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/07-utilities/ie.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/07-utilities/measure.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/07-utilities/print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/style-dark-mode.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/style-editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/assets/sass/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/classes/class-twenty-twenty-one-custom-colors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/classes/class-twenty-twenty-one-customize-color-control.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/classes/class-twenty-twenty-one-customize-notice-control.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/classes/class-twenty-twenty-one-customize.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/classes/class-twenty-twenty-one-dark-mode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/classes/class-twenty-twenty-one-svg-icons.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/comments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/image.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/inc/back-compat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/inc/block-patterns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/inc/block-styles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/inc/custom-css.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/inc/menu-functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/inc/starter-content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/inc/template-functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/inc/template-tags.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/searchform.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/style-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/content/content-excerpt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/content/content-none.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/content/content-page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/content/content-single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/content/content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-aside.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-audio.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-chat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-gallery.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-image.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-link.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-quote.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-status.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-video.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/footer/footer-widgets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/header/entry-header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/header/excerpt-header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/header/site-branding.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/header/site-header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/header/site-nav.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentyone/template-parts/post/author-bio.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/fonts/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/fonts/SourceSerif4Variable-Italic.otf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/fonts/SourceSerif4Variable-Italic.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/fonts/SourceSerif4Variable-Roman.otf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/bird-on-black.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/bird-on-gray.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/bird-on-green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/bird-on-salmon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/divider-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/divider-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/ducks.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/flight-path-on-gray-a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/flight-path-on-gray-b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/flight-path-on-gray-c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/flight-path-on-salmon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/flight-path-on-transparent-a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/flight-path-on-transparent-b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/flight-path-on-transparent-c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/flight-path-on-transparent-d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/icon-binoculars.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/images/icon-bird.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/assets/videos/birds.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/block-patterns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/footer-about-title-logo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/footer-blog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/footer-dark.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/footer-default.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/footer-logo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/footer-navigation-copyright.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/footer-navigation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/footer-query-images-title-citation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/footer-query-title-citation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/footer-social-copyright.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/footer-title-tagline-social.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/general-divider-dark.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/general-divider-light.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/general-featured-posts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/general-image-with-caption.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/general-large-list-names.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/general-list-events.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/general-pricing-table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/general-subscribe.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/general-two-images-text.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/general-video-header-details.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/general-video-trailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-centered-logo-black-background.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-centered-logo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-centered-title-navigation-social.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-default.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-image-background-overlay.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-image-background.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-large-dark.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-logo-navigation-gray-background.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-logo-navigation-offset-tagline.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-logo-navigation-social-black-background.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-small-dark.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-stacked.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-text-only-green-background.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-text-only-salmon-background.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-text-only-with-tagline-black-background.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-title-and-button.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-title-navigation-social.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/header-with-tagline.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/hidden-404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/hidden-bird.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/hidden-heading-and-bird.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/page-about-links-dark.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/page-about-links.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/page-about-media-left.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/page-about-media-right.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/page-about-simple-dark.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/page-about-solid-color.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/page-layout-image-and-text.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/page-layout-two-columns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/page-sidebar-poster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/query-default.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/query-grid.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/query-image-grid.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/query-irregular-grid.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/query-large-titles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/query-simple-blog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/inc/patterns/query-text-grid.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/parts/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/parts/header-large-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/parts/header-small-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/parts/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/templates/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/templates/archive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/templates/blank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/templates/page-large-header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/templates/page-no-separators.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/templates/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/templates/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/templates/single-no-separators.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/templates/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twentytwentytwo/theme.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="28Z3DgEddgkv40mj3g6hWQHfYMf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecd2f3b3-582e-4e7c-9e9d-f58175286ba1" name="Changes" comment="" />
+      <created>1651410168112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651410168112</updated>
+      <workItem from="1651410170339" duration="12282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
