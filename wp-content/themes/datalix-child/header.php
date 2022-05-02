@@ -16,7 +16,7 @@
 <html <?php language_attributes(); ?> <?php twentytwentyone_the_html_classes(); ?>>
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
-    <base href="http://localhost/datalix-website/">
+    <base href="https://stg.datalix.com/datalix-website/">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
