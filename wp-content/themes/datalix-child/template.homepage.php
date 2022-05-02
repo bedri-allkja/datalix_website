@@ -7,7 +7,7 @@
             <div class="row main-section">
                 <div class="col">
                     <div class="small-text">10x your outbound sales! <img
-                                src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/flame.svg"
+                                src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/flame.svg"
                                 alt=""></div>
                     <div class="section-text">
                         <!--                        We provide <span>solutions</span> <br> to grow your business.-->
@@ -34,7 +34,7 @@
                 </div>
                 <div class="col app-image">
                     <img class="img-1"
-                         src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/datalix-screen.png"
+                         src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-screen.png"
                          alt="">
                     <!--                    <img class="img-2" src="assets/img/chart.png" alt="">-->
                     <!--                <img class="img-3" src="assets/img/lusha-fill.png" alt="">-->
@@ -53,25 +53,25 @@
 
                     <div style="text-align: left;">
                         <img style="height: 40px; margin-right: 20px"
-                             src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/hubspot.png"
+                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hubspot.png"
                              alt="">
                         <img style="height: 50px; margin-top: 6px; margin-right: 20px;"
-                             src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/salesforce.png"
+                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/salesforce.png"
                              alt="">
                         <img style="height: 30px; margin-right: 20px"
-                             src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/hunter.png"
+                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hunter.png"
                              alt="">
                         <img style="height: 50px; margin-top: 6px; margin-right: 20px;"
-                             src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/norbert.png"
+                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/norbert.png"
                              alt="">
                         <img style="height: 40px; margin-right: 20px"
-                             src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/kickbox.svg"
+                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/kickbox.svg"
                              alt="">
                         <img style="height: 30px; margin-right: 20px"
-                             src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/snov-io.svg"
+                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/snov-io.svg"
                              alt="">
                         <img style="height: 40px;"
-                             src=https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/"assets/img/hubspot.png"
+                             src=https://stg.datalix.com/wp-content/themes/datalix-child/"assets/img/hubspot.png"
                              alt="">
                     </div>
                 </div>
@@ -161,22 +161,22 @@
                         <div class="content">
                             <section>
                                 <img style="height: 120%;  margin: -40px;"
-                                     src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/bulk-email.png"
+                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png"
                                      alt="">
                             </section>
                             <section>
                                 <img style="height: 120%;  margin: -40px;"
-                                     src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/bulk-email.png"
+                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png"
                                      alt="">
                             </section>
                             <section>
                                 <img style="height: 120%;  margin: -40px;"
-                                     src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/bulk-email.png"
+                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png"
                                      alt="">
                             </section>
                             <section>
                                 <img style="height: 120%;  margin: -40px;"
-                                     src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/bulk-email.png"
+                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png"
                                      alt="">
                             </section>
                         </div>
@@ -197,7 +197,7 @@
         <div class="container custom-container options-box">
             <div class="row">
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
                          alt="">
                     <div class="title">Define your <br> customer profile</div>
                     <div class="subtitle">Our strategists work with you to develop specific market, company & contact
@@ -206,7 +206,7 @@
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
                          alt="">
                     <div class="title">Gain addressable <br> market insights</div>
                     <div class="subtitle">We apply our data & prospecting experience to your data needs to refine our
@@ -215,7 +215,7 @@
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
                          alt="">
                     <div class="title">Source & verify <br> contact data</div>
                     <div class="subtitle">Dedicated data researchers comb over 1000+ data sources to find the specific
@@ -224,7 +224,7 @@
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
                          alt="">
                     <div class="title">Obtain & approve <br> lead lists</div>
                     <div class="subtitle">Every lead list we provide is validated to eliminate bounces and is approved
@@ -273,7 +273,7 @@
             <!--            <br><br><br>-->
             <div class="row">
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
                          alt="">
                     <div class="title">Demographic data</div>
                     <div class="subtitle">Gender, age, education, profession, occupation, income level, marital status &
@@ -282,7 +282,7 @@
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
                          alt="">
                     <div class="title">Firmographic data</div>
                     <div class="subtitle">We apply our data & prospecting experience to your data needs to refine our
@@ -291,7 +291,7 @@
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
                          alt="">
                     <div class="title">Technographic data</div>
                     <div class="subtitle">Technology, Analytics, Email Marketing, Advertising, Hosting, Ecommerce &
@@ -300,7 +300,7 @@
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
                          alt="">
                     <div class="title">Psychographic data</div>
                     <div class="subtitle">Personality, Values, Attitudes, Interests, Lifestyles, Activities, Personas &
@@ -312,14 +312,14 @@
             <br><br><br>
             <div class="row">
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
                          alt="">
                     <div class="title">Event data</div>
                     <div class="subtitle">Conferences, Engagements, Blogs, Podcasts, Press Releases, News & more.</div>
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
                          alt="">
                     <div class="title">Custom data</div>
                     <div class="subtitle">Restaurant Locations, Import Records, SEC Filings, Property Software, Yelp
@@ -328,7 +328,7 @@
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
                          alt="">
                     <div class="title">Social Media</div>
                     <div class="subtitle">Social Media profile pages, Engagement data, Contact information, Followers
@@ -337,7 +337,7 @@
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
                          alt="">
                     <div class="title">Competitor Contracts</div>
                     <div class="subtitle">Identify if any of your competitors is working with your contact</div>

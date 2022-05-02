@@ -24,35 +24,35 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
     <div class="container custom-container">
         <div class="row header-menu">
             <div class="col-8 left-menu">
-                <a href="https://stg.datalix.com/datalix-website/">
-                    <img src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/datalix.png" class="logo">
+                <a href="https://stg.datalix.com/">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix.png" class="logo">
                 </a>
                 <div class="menu-items">
                     <a href="" id="services-drop">Solutions</a>
                     <div id="services">
                         <a href="services/lead-generation.html" class="sub-item">
-                            <img style="width: 28px;" src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/search.svg">
+                            <img style="width: 28px;" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/search.svg">
                             <div class="data">
                                 <div class="title">Lead Generation</div>
                                 <div class="sub-title">Lorem ipsum dolor sit amet.</div>
                             </div>
                         </a>
                         <a href="services/data-entry.html" class="sub-item">
-                            <img style="width: 28px;" src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/insurance.svg">
+                            <img style="width: 28px;" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/insurance.svg">
                             <div class="data">
                                 <div class="title">Data Entry</div>
                                 <div class="sub-title">Lorem ipsum dolor sit amet.</div>
                             </div>
                         </a>
                         <a href="services/data-cleansing.html" class="sub-item">
-                            <img style="width: 28px;" src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/insurance.svg">
+                            <img style="width: 28px;" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/insurance.svg">
                             <div class="data">
                                 <div class="title">Data Cleasing</div>
                                 <div class="sub-title">Lorem ipsum dolor sit amet.</div>
                             </div>
                         </a>
                         <a href="services/outbound-automation.html" class="sub-item">
-                            <img style="width: 28px;" src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/insurance.svg">
+                            <img style="width: 28px;" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/insurance.svg">
                             <div class="data">
                                 <div class="title">Outbound Automation</div>
                                 <div class="sub-title">Lorem ipsum dolor sit amet.</div>
@@ -63,14 +63,14 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
                     <a href="" id="about-drop">Why Datalix?</a>
                     <div id="about">
                         <div class="sub-item">
-                            <img style="width: 28px;" src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/insurance.svg">
+                            <img style="width: 28px;" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/insurance.svg">
                             <div class="data">
                                 <div class="title">Careers</div>
                                 <div class="sub-title">Lorem ipsum dolor sit amet.</div>
                             </div>
                         </div>
                         <a href="contact-us" class="sub-item">
-                            <img style="width: 28px;" src="https://stg.datalix.com/datalix-website/wp-content/themes/datalix-child/assets/img/insurance.svg">
+                            <img style="width: 28px;" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/insurance.svg">
                             <div class="data">
                                 <div class="title">Contact Us</div>
                                 <div class="sub-title">Lorem ipsum dolor sit amet.</div>
