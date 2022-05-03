@@ -6,18 +6,21 @@
         <div class="container custom-container">
             <div class="row main-section">
                 <div class="col">
-                    <div class="small-text">10x your outbound sales! <img
+<!--                    <div class="small-text">10x your outbound sales! <img-->
                                 src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/flame.svg"
                                 alt=""></div>
                     <div class="section-text">
                         <!--                        We provide <span>solutions</span> <br> to grow your business.-->
-                        Built by <span>SDRs</span> <br> for SDRs
+<!--                        Built by <span>SDRs</span> <br> for SDRs-->
+                        Data <span>intelligence</span><br> for Sales & CS teams
                     </div>
                     <div class="secondary-text">
-                        Datalix provides an experienced team who align with your <br>
-                        revenue goals to source unique lead data and scale sales pipelines. <br>
-                        Fueled by powerful outbound strategies, we work together <br>
-                        to drive your growth.
+<!--                        Datalix provides an experienced team who align with your <br>-->
+<!--                        revenue goals to source unique lead data and scale sales pipelines. <br>-->
+<!--                        Fueled by powerful outbound strategies, we work together <br>-->
+<!--                        to drive your growth.-->
+                        Maximize Sales prospecting and Customer retention by automatically <br>
+                        enriching your Salesforce CRM with Technographic data.
                     </div>
 
                     <div class="call-to-action">
