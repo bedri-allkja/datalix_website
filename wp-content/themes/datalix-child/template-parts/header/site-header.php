@@ -85,7 +85,7 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
             </div>
             <div class="col right-menu">
                 <a href="https://stg.datalix.com/" class="outline-btn">Login</a>
-                <a href="https://stg.datalix.com/auth/register" style="margin-left: 15px;">Get Started</a>
+                <a href="https://stg.datalix.com/auth/register" style="margin-left: 15px;">Sign Up</a>
             </div>
         </div>
     </div>

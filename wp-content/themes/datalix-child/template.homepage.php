@@ -25,7 +25,7 @@
 
                     <div class="call-to-action">
                         <input type="text" placeholder="Enter your work email">
-                        <input type="submit" value="Free Tria">
+                        <input type="submit" value="Free Trial">
                     </div>
 
                     <!--                    <div class="services-list">-->

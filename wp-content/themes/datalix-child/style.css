@@ -159,7 +159,8 @@ body {
 
 .main-section .secondary-text {
     font-size: 16px;
-    margin-top: 30px;
+    margin-top: 15px;
+    margin-bottom: 30px;
     color: #071c4d;
     opacity: .9;
 }
@@ -1085,7 +1086,8 @@ body h1 {
     justify-content: space-between;
     align-items: flex-start;
     flex-wrap: wrap;
-    height: 380px;
+    height: 410px;
+    font-family: Poppins;
 }
 .tabs ul li {
     box-sizing: border-box;
