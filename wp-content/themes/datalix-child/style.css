@@ -283,10 +283,10 @@ body {
 
 .text-bar {
     /*background-color: #f4f4f4;*/
-    padding-bottom: 40px;
+    padding-bottom: 0;
     border-radius: 10px;
     color: white;
-    margin-bottom: 30px;
+    margin-bottom: 0;
 }
 
 .text-bar .main-text {
