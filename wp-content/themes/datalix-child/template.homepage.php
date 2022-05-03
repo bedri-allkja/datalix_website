@@ -421,7 +421,7 @@
             <br><br><br>
             <div class="light-hr"></div>
 
-            <br><br><br>
+            <br><br><br><br>
             <div class="row">
 
 
@@ -458,26 +458,23 @@
             <!--            <br><br><br>-->
             <div class="row">
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
-                         alt="">
-                    <div class="title">Demographic data</div>
+                    <div class="focused-text">25+</div>
+                    <div class="title">e-Commerce Platforms</div>
                     <div class="subtitle">Gender, age, education, profession, occupation, income level, marital status &
                         more.
                     </div>
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
-                         alt="">
-                    <div class="title">Firmographic data</div>
+                    <div class="focused-text">45+</div>
+                    <div class="title">Analytics Platforms</div>
                     <div class="subtitle">We apply our data & prospecting experience to your data needs to refine our
                         research processes.
                     </div>
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
-                         alt="">
+                    <div class="focused-text">45+</div>
                     <div class="title">Technographic data</div>
                     <div class="subtitle">Technology, Analytics, Email Marketing, Advertising, Hosting, Ecommerce &
                         more.
@@ -485,8 +482,7 @@
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
-                         alt="">
+                    <div class="focused-text">45+</div>
                     <div class="title">Psychographic data</div>
                     <div class="subtitle">Personality, Values, Attitudes, Interests, Lifestyles, Activities, Personas &
                         more.
