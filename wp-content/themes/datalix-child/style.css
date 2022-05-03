@@ -522,6 +522,7 @@ body {
 .services-ctn {
     background-color: #e9ecef;
     padding-top: 50px;
+    margin-bottom: 0;
 }
 .service-row:last-child {
     margin-bottom: 50px;

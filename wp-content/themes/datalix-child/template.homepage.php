@@ -369,7 +369,7 @@
         <br>
         <br>
         <div class="container custom-container options-box">
-            <div class="row">
+            <div class="row" style="color: white">
                 <div class="col-12 feature-box">
                     <div style="font-size: 30px;  font-weight: 600;">Growing list of Technologies</div>
                     <div class="subtitle">
@@ -379,6 +379,7 @@
                     </div>
                 </div>
             </div>
+            <br><br><br>
             <div class="row">
                 <div class="col feature-box">
                     <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
