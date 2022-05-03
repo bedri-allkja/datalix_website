@@ -95,8 +95,8 @@
                         <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
                     </div>
                     <div class="services-title"> Single Plaform - Full Coverage</div>
-                    <div class="services-subtitle">Clean old lists, keep them healthy, and filter out the bad emails.
-                        We’ve got you covered.
+                    <div class="services-subtitle">
+                        Clean old lists, keep them healthy, and filter out the bad emails. We’ve got you covered.
                     </div>
                 </div>
             </div>
@@ -177,18 +177,12 @@
                 </div>
             </div>
         </div>
-
-        <br>
-        <br>
-        <br>
-        <br>
         <br>
         <br>
     </div>
 
 <!--    <div class="fluid-container services-ctn" style="margin: 0 !important;">-->
 <!--        <br><br>-->
-<!---->
 <!--        <div class="container page-container" style="padding: 0;">-->
 <!--            <div class="row">-->
 <!--                <div class="col-12">-->
@@ -269,9 +263,7 @@
 <!--                            </li>-->
 <!--                        </ul>-->
 <!---->
-<!--                        <!--                <div class="slider">-->-->
-<!--                        <!--                    <div class="indicator"></div>-->-->
-<!--                        <!--                </div>-->-->
+
 <!--                        <div class="content">-->
 <!--                            <section>-->
 <!--                                <img style="height: 120%;  margin: -40px;"-->
@@ -323,7 +315,7 @@
 <!--                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/2.png" alt="">-->
 <!--            </div>-->
 <!--            <div class="col feature-details">-->
-<!--                <!--                <div class="sub-title">#OurServices</div>-->-->
+<!--                            <div class="sub-title">#OurServices</div>-->
 <!--                <div class="title"><span>1.</span> Connect your CRM</div>-->
 <!--                <div class="description">-->
 <!--                    Specialized research and quality-assurance teams work to identify,<br>-->
@@ -337,7 +329,7 @@
 <!---->
 <!--        <div class="row features">-->
 <!--            <div class="col feature-details">-->
-<!--                <!--                <div class="sub-title">#OurServices</div>-->-->
+<!--                         <div class="sub-title">#OurServices</div>-->
 <!--                <div class="title"><span>2.</span> Create a Report</div>-->
 <!--                <div class="description">-->
 <!--                    A team of experienced researchers analyze your CRM to pinpoint <br>-->
@@ -358,7 +350,7 @@
 <!--                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/2.png" alt="">-->
 <!--            </div>-->
 <!--            <div class="col feature-details">-->
-<!--                <!--                <div class="sub-title">#OurServices</div>-->-->
+<!--                              <div class="sub-title">#OurServices</div>-->
 <!--                <div class="title"><span>2.</span> Enrich your Salesforce CRM</div>-->
 <!--                <div class="description">-->
 <!--                    Datalix will analyze the technographics of the websites in your report and automatically-->
@@ -377,6 +369,16 @@
         <br>
         <br>
         <div class="container custom-container options-box">
+            <div class="row">
+                <div class="col-12 feature-box">
+                    <div style="font-size: 30px;  font-weight: 600;">Growing list of Technologies</div>
+                    <div class="subtitle">
+                        To lead your prospecting our data specialists source nearly every data field you will require.
+                        We aren’t restricted to what exists in a database; instead we utilize 1000+ data sources & view
+                        every request to be unique, finding data specific to your requirements.
+                    </div>
+                </div>
+            </div>
             <div class="row">
                 <div class="col feature-box">
                     <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
