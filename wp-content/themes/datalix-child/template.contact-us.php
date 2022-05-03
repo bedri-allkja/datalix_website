@@ -115,7 +115,7 @@
             <br><br><br>
             <div class="row" style="color: #ffffff;">
                 <div class="col-6 feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/Group 425.svg" style="width: 100%">
+                    <img src="ccassets/img/Group 425.svg" style="width: 100%">
                 </div>
 
                 <div class="col feature-box" style="display: flex; flex-direction: column; justify-content: center;">
