@@ -357,14 +357,12 @@
                     </div>
                 </div>
             </div>
-            <br><br><br>
+            <br><br>
             <div class="row">
                 <div class="col feature-box">
                     <div class="focused-text">25+</div>
                     <div class="title">e-Commerce Platforms</div>
-                    <div class="subtitle">Gender, age, education, profession, occupation, income level, marital status &
-                        more.
-                    </div>
+                    <div class="subtitle">ShopifyPlus, Salesforce Commerce Cloud, Bigcommerce, Magento, etc.</div>
                 </div>
 
                 <div class="col feature-box">
