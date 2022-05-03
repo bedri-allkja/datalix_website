@@ -6,41 +6,22 @@
         <div class="container custom-container">
             <div class="row main-section">
                 <div class="col">
-<!--                    <div class="small-text">10x your outbound sales! <img-->
-<!--                                src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/flame.svg"-->
-<!--                                alt=""></div>-->
                     <div class="section-text">
-                        <!--                        We provide <span>solutions</span> <br> to grow your business.-->
-<!--                        Built by <span>SDRs</span> <br> for SDRs-->
                         Data <span>intelligence</span><br> for Sales & CS teams
                     </div>
                     <div class="secondary-text">
-<!--                        Datalix provides an experienced team who align with your <br>-->
-<!--                        revenue goals to source unique lead data and scale sales pipelines. <br>-->
-<!--                        Fueled by powerful outbound strategies, we work together <br>-->
-<!--                        to drive your growth.-->
                         Maximize Sales prospecting and Customer retention by automatically <br>
                         enriching your Salesforce CRM with Technographic data.
                     </div>
-
                     <div class="call-to-action">
                         <input type="text" placeholder="Enter your work email">
                         <input type="submit" value="Free Trial">
                     </div>
-
-                    <!--                    <div class="services-list">-->
-                    <!--                        <div class="service"><img src="assets/img/check.svg"> Outbound Automation</div>-->
-                    <!--                        <div class="service"><img src="assets/img/check.svg"> Lead Generation</div>-->
-                    <!--                        <div class="service"><img src="assets/img/check.svg"> Data Cleansing</div>-->
-                    <!--                    </div>-->
-
                 </div>
                 <div class="col app-image">
                     <img class="img-1"
                          src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-screen.png"
                          alt="">
-                    <!--                    <img class="img-2" src="assets/img/chart.png" alt="">-->
-                    <!--                <img class="img-3" src="assets/img/lusha-fill.png" alt="">-->
                 </div>
             </div>
         </div>
@@ -81,9 +62,6 @@
                 </div>
             </div>
         </div>
-        <br>
-        <br>
-        <br>
     </div>
 
 
