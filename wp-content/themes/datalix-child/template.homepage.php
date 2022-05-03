@@ -382,82 +382,6 @@
             <br><br><br>
             <div class="row">
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
-                         alt="">
-                    <div class="title">Define your <br> customer profile</div>
-                    <div class="subtitle">Our strategists work with you to develop specific market, company & contact
-                        data needs. No data requirement is too difficult.
-                    </div>
-                </div>
-
-                <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
-                         alt="">
-                    <div class="title">Gain addressable <br> market insights</div>
-                    <div class="subtitle">We apply our data & prospecting experience to your data needs to refine our
-                        research processes.
-                    </div>
-                </div>
-
-                <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
-                         alt="">
-                    <div class="title">Source & verify <br> contact data</div>
-                    <div class="subtitle">Dedicated data researchers comb over 1000+ data sources to find the specific
-                        account and contact data you require.
-                    </div>
-                </div>
-
-                <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
-                         alt="">
-                    <div class="title">Obtain & approve <br> lead lists</div>
-                    <div class="subtitle">Every lead list we provide is validated to eliminate bounces and is approved
-                        by you upon delivery or we replace it.
-                    </div>
-                </div>
-            </div>
-
-            <br><br><br>
-            <div class="light-hr"></div>
-
-            <br><br><br><br>
-            <div class="row">
-
-
-                <!--                <div class="col-12 feature-box">-->
-                <!--                    <div style="font-size: 30px;  font-weight: 600;">Data You NEED</div>-->
-                <!--                    <div class="subtitle">-->
-                <!--                        To lead your prospecting our data specialists source nearly every data field you will require.-->
-                <!--                        We aren’t restricted to what exists in a database; instead we utilize 1000+ data sources & view-->
-                <!--                        every request to be unique, finding data specific to your requirements.-->
-                <!--                    </div>-->
-                <!--                </div>-->
-
-                <!--                <div class="col-12 feature-box">-->
-                <!--                    <div style="font-size: 42px; font-weight: 600;  line-height: 1;color: #79efa9; text-shadow: 3px 1px 10px rgb(126 241 169 / 42%);">1.</div>-->
-                <!--                    <div style="font-size: 30px;  font-weight: 600;">Back Office</div>-->
-                <!--                    <div class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus beatae cupiditate exercitationem officia pariatur, voluptatum. Adipisci deserunt earum ex excepturi iste labore neque nesciunt nobis odit, porro quisquam quos sed soluta tenetur unde vel voluptatem. Doloremque eaque error, illum in maxime neque nulla placeat? Distinctio enim exercitationem necessitatibus officiis saepe.</div>-->
-                <!--                </div>-->
-                <!--                <br><br><br><br><br><br>-->
-
-                <!--                <div class="col-12 feature-box">-->
-                <!--                    <div style="font-size: 42px; font-weight: 600;  line-height: 1;color: #79efa9; text-shadow: 3px 1px 10px rgb(126 241 169 / 42%);">1.</div>-->
-                <!--                    <div style="font-size: 30px;  font-weight: 600;">Back Office</div>-->
-                <!--                    <div class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus beatae cupiditate exercitationem officia pariatur, voluptatum. Adipisci deserunt earum ex excepturi iste labore neque nesciunt nobis odit, porro quisquam quos sed soluta tenetur unde vel voluptatem. Doloremque eaque error, illum in maxime neque nulla placeat? Distinctio enim exercitationem necessitatibus officiis saepe.</div>-->
-                <!--                </div>-->
-                <!--                <br><br><br><br><br><br>-->
-
-                <!--                <div class="col-12 feature-box">-->
-                <!--                    <div style="font-size: 42px; font-weight: 600;  line-height: 1;color: #79efa9; text-shadow: 3px 1px 10px rgb(126 241 169 / 42%);">1.</div>-->
-                <!--                    <div style="font-size: 30px;  font-weight: 600;">Back Office</div>-->
-                <!--                    <div class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus beatae cupiditate exercitationem officia pariatur, voluptatum. Adipisci deserunt earum ex excepturi iste labore neque nesciunt nobis odit, porro quisquam quos sed soluta tenetur unde vel voluptatem. Doloremque eaque error, illum in maxime neque nulla placeat? Distinctio enim exercitationem necessitatibus officiis saepe.</div>-->
-                <!--                </div>-->
-            </div>
-
-            <!--            <br><br><br>-->
-            <div class="row">
-                <div class="col feature-box">
                     <div class="focused-text">25+</div>
                     <div class="title">e-Commerce Platforms</div>
                     <div class="subtitle">Gender, age, education, profession, occupation, income level, marital status &
@@ -489,43 +413,152 @@
                     </div>
                 </div>
             </div>
+<!--            <div class="row">-->
+<!--                <div class="col feature-box">-->
+<!--                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"-->
+<!--                         alt="">-->
+<!--                    <div class="title">Define your <br> customer profile</div>-->
+<!--                    <div class="subtitle">Our strategists work with you to develop specific market, company & contact-->
+<!--                        data needs. No data requirement is too difficult.-->
+<!--                    </div>-->
+<!--                </div>-->
+<!---->
+<!--                <div class="col feature-box">-->
+<!--                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"-->
+<!--                         alt="">-->
+<!--                    <div class="title">Gain addressable <br> market insights</div>-->
+<!--                    <div class="subtitle">We apply our data & prospecting experience to your data needs to refine our-->
+<!--                        research processes.-->
+<!--                    </div>-->
+<!--                </div>-->
+<!---->
+<!--                <div class="col feature-box">-->
+<!--                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"-->
+<!--                         alt="">-->
+<!--                    <div class="title">Source & verify <br> contact data</div>-->
+<!--                    <div class="subtitle">Dedicated data researchers comb over 1000+ data sources to find the specific-->
+<!--                        account and contact data you require.-->
+<!--                    </div>-->
+<!--                </div>-->
+<!---->
+<!--                <div class="col feature-box">-->
+<!--                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"-->
+<!--                         alt="">-->
+<!--                    <div class="title">Obtain & approve <br> lead lists</div>-->
+<!--                    <div class="subtitle">Every lead list we provide is validated to eliminate bounces and is approved-->
+<!--                        by you upon delivery or we replace it.-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!---->
+<!--            <br><br><br>-->
+<!--            <div class="light-hr"></div>-->
+<!---->
+<!--            <br><br><br><br>-->
+<!--            <div class="row">-->
+<!---->
+<!---->
+<!--                <!--                <div class="col-12 feature-box">-->-->
+<!--                <!--                    <div style="font-size: 30px;  font-weight: 600;">Data You NEED</div>-->-->
+<!--                <!--                    <div class="subtitle">-->-->
+<!--                <!--                        To lead your prospecting our data specialists source nearly every data field you will require.-->-->
+<!--                <!--                        We aren’t restricted to what exists in a database; instead we utilize 1000+ data sources & view-->-->
+<!--                <!--                        every request to be unique, finding data specific to your requirements.-->-->
+<!--                <!--                    </div>-->-->
+<!--                <!--                </div>-->-->
+<!---->
+<!--                <!--                <div class="col-12 feature-box">-->-->
+<!--                <!--                    <div style="font-size: 42px; font-weight: 600;  line-height: 1;color: #79efa9; text-shadow: 3px 1px 10px rgb(126 241 169 / 42%);">1.</div>-->-->
+<!--                <!--                    <div style="font-size: 30px;  font-weight: 600;">Back Office</div>-->-->
+<!--                <!--                    <div class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus beatae cupiditate exercitationem officia pariatur, voluptatum. Adipisci deserunt earum ex excepturi iste labore neque nesciunt nobis odit, porro quisquam quos sed soluta tenetur unde vel voluptatem. Doloremque eaque error, illum in maxime neque nulla placeat? Distinctio enim exercitationem necessitatibus officiis saepe.</div>-->-->
+<!--                <!--                </div>-->-->
+<!--                <!--                <br><br><br><br><br><br>-->-->
+<!---->
+<!--                <!--                <div class="col-12 feature-box">-->-->
+<!--                <!--                    <div style="font-size: 42px; font-weight: 600;  line-height: 1;color: #79efa9; text-shadow: 3px 1px 10px rgb(126 241 169 / 42%);">1.</div>-->-->
+<!--                <!--                    <div style="font-size: 30px;  font-weight: 600;">Back Office</div>-->-->
+<!--                <!--                    <div class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus beatae cupiditate exercitationem officia pariatur, voluptatum. Adipisci deserunt earum ex excepturi iste labore neque nesciunt nobis odit, porro quisquam quos sed soluta tenetur unde vel voluptatem. Doloremque eaque error, illum in maxime neque nulla placeat? Distinctio enim exercitationem necessitatibus officiis saepe.</div>-->-->
+<!--                <!--                </div>-->-->
+<!--                <!--                <br><br><br><br><br><br>-->-->
+<!---->
+<!--                <!--                <div class="col-12 feature-box">-->-->
+<!--                <!--                    <div style="font-size: 42px; font-weight: 600;  line-height: 1;color: #79efa9; text-shadow: 3px 1px 10px rgb(126 241 169 / 42%);">1.</div>-->-->
+<!--                <!--                    <div style="font-size: 30px;  font-weight: 600;">Back Office</div>-->-->
+<!--                <!--                    <div class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus beatae cupiditate exercitationem officia pariatur, voluptatum. Adipisci deserunt earum ex excepturi iste labore neque nesciunt nobis odit, porro quisquam quos sed soluta tenetur unde vel voluptatem. Doloremque eaque error, illum in maxime neque nulla placeat? Distinctio enim exercitationem necessitatibus officiis saepe.</div>-->-->
+<!--                <!--                </div>-->-->
+<!--            </div>-->
 
-            <br><br><br>
-            <div class="row">
-                <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
-                         alt="">
-                    <div class="title">Event data</div>
-                    <div class="subtitle">Conferences, Engagements, Blogs, Podcasts, Press Releases, News & more.</div>
-                </div>
+            <!--            <br><br><br>-->
+<!--            <div class="row">-->
+<!--                <div class="col feature-box">-->
+<!--                    <div class="focused-text">25+</div>-->
+<!--                    <div class="title">e-Commerce Platforms</div>-->
+<!--                    <div class="subtitle">Gender, age, education, profession, occupation, income level, marital status &-->
+<!--                        more.-->
+<!--                    </div>-->
+<!--                </div>-->
+<!---->
+<!--                <div class="col feature-box">-->
+<!--                    <div class="focused-text">45+</div>-->
+<!--                    <div class="title">Analytics Platforms</div>-->
+<!--                    <div class="subtitle">We apply our data & prospecting experience to your data needs to refine our-->
+<!--                        research processes.-->
+<!--                    </div>-->
+<!--                </div>-->
+<!---->
+<!--                <div class="col feature-box">-->
+<!--                    <div class="focused-text">45+</div>-->
+<!--                    <div class="title">Technographic data</div>-->
+<!--                    <div class="subtitle">Technology, Analytics, Email Marketing, Advertising, Hosting, Ecommerce &-->
+<!--                        more.-->
+<!--                    </div>-->
+<!--                </div>-->
+<!---->
+<!--                <div class="col feature-box">-->
+<!--                    <div class="focused-text">45+</div>-->
+<!--                    <div class="title">Psychographic data</div>-->
+<!--                    <div class="subtitle">Personality, Values, Attitudes, Interests, Lifestyles, Activities, Personas &-->
+<!--                        more.-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
 
-                <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
-                         alt="">
-                    <div class="title">Custom data</div>
-                    <div class="subtitle">Restaurant Locations, Import Records, SEC Filings, Property Software, Yelp
-                        Reviews & anything you need.
-                    </div>
-                </div>
-
-                <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
-                         alt="">
-                    <div class="title">Social Media</div>
-                    <div class="subtitle">Social Media profile pages, Engagement data, Contact information, Followers
-                        number, Activity
-                    </div>
-                </div>
-
-                <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"
-                         alt="">
-                    <div class="title">Competitor Contracts</div>
-                    <div class="subtitle">Identify if any of your competitors is working with your contact</div>
-                </div>
-            </div>
-
-            <br><br><br>
+<!--            <br><br><br>-->
+<!--            <div class="row">-->
+<!--                <div class="col feature-box">-->
+<!--                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"-->
+<!--                         alt="">-->
+<!--                    <div class="title">Event data</div>-->
+<!--                    <div class="subtitle">Conferences, Engagements, Blogs, Podcasts, Press Releases, News & more.</div>-->
+<!--                </div>-->
+<!---->
+<!--                <div class="col feature-box">-->
+<!--                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"-->
+<!--                         alt="">-->
+<!--                    <div class="title">Custom data</div>-->
+<!--                    <div class="subtitle">Restaurant Locations, Import Records, SEC Filings, Property Software, Yelp-->
+<!--                        Reviews & anything you need.-->
+<!--                    </div>-->
+<!--                </div>-->
+<!---->
+<!--                <div class="col feature-box">-->
+<!--                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"-->
+<!--                         alt="">-->
+<!--                    <div class="title">Social Media</div>-->
+<!--                    <div class="subtitle">Social Media profile pages, Engagement data, Contact information, Followers-->
+<!--                        number, Activity-->
+<!--                    </div>-->
+<!--                </div>-->
+<!---->
+<!--                <div class="col feature-box">-->
+<!--                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png"-->
+<!--                         alt="">-->
+<!--                    <div class="title">Competitor Contracts</div>-->
+<!--                    <div class="subtitle">Identify if any of your competitors is working with your contact</div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!---->
+<!--            <br><br><br>-->
 
         </div>
     </div>
