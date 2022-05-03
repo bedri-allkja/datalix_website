@@ -211,13 +211,13 @@
     <div class="container page-container text-bar">
         <div class="row">
             <div class="col">
-                <div class="text-center main-text">Sales Partner</div>
-                <div class="text-center subtext">
-                    "Entalgo strives to be a true extension of your Sales organization.
-                    From project planning to campaign creation and execution,
-                    Entalgo will keep your stakeholders informed of what's
-                    working and what is needed to achieve your desired goal."
-                </div>
+                <div class="text-center main-text">How it works?</div>
+<!--                <div class="text-center subtext">-->
+<!--                    "Entalgo strives to be a true extension of your Sales organization.-->
+<!--                    From project planning to campaign creation and execution,-->
+<!--                    Entalgo will keep your stakeholders informed of what's-->
+<!--                    working and what is needed to achieve your desired goal."-->
+<!--                </div>-->
             </div>
         </div>
     </div>
@@ -225,11 +225,11 @@
     <div class="container page-container">
         <div class="row features">
             <div class="col feature-image">
-                <img src="assets/img/2.png" alt="">
+                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/2.png" alt="">
             </div>
             <div class="col feature-details">
                 <!--                <div class="sub-title">#OurServices</div>-->
-                <div class="title">Lead Generation</div>
+                <div class="title"><span>1.</span> Connect your CRM</div>
                 <div class="description">
                     Specialized research and quality-assurance teams work to identify,<br>
                     prioritize, and source prospect data for your target accounts. <br>
@@ -246,7 +246,7 @@
         <div class="row features">
             <div class="col feature-details">
                 <!--                <div class="sub-title">#OurServices</div>-->
-                <div class="title">Data Cleansing</div>
+                <div class="title"><span>2.</span> Create a Report</div>
                 <div class="description">
                     A team of experienced researchers analyze your CRM to pinpoint <br>
                     out-of-date account data and replace it. We map out a data cleansing<br>
@@ -260,22 +260,20 @@
             </div>
 
             <div class="col feature-image">
-                <img src="assets/img/2.png" alt="">
+                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/2.png" alt="">
             </div>
         </div>
 
         <div class="row features">
             <div class="col feature-image">
-                <img src="assets/img/2.png" alt="">
+                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/2.png" alt="">
             </div>
             <div class="col feature-details">
                 <!--                <div class="sub-title">#OurServices</div>-->
-                <div class="title">Outbound Automation</div>
+                <div class="title"><span>2.</span> Enrich your Salesforce CRM</div>
                 <div class="description">
-                    Experienced Sales Development Reps work as your remote team to strategize, <br>
-                    launch, and manage effective account-based outbound sales campaigns.<br>
-                    Your Entalgo team delivers predictable sales pipeline by focusing on<br>
-                    tailored messaging, personalized playbooks, and consistent connections.
+                    Datalix will analyze the technographics of the websites in your report and automatically
+                    enrich your CRM records.
                 </div>
                 <div class="btn-section">
                     <a href="">Get Started</a>
@@ -284,28 +282,6 @@
         </div>
     </div>
 
-    <div class="fluid-container">
-        <div class="container page-container">
-            <div class="all_items">
-                <div class="single_counter_item">
-                    <h3><span class="timer">150000</span>+</h3>
-                    <h4>Leads Generated</h4>
-                </div>
-                <div class="single_counter_item">
-                    <h3><span class="timer">4500</span>+</h3>
-                    <h4>Demos Scheduled</h4>
-                </div>
-                <div class="single_counter_item">
-                    <h3><span class="timer">55</span>%</h3>
-                    <h4>Open Rate</h4>
-                </div>
-                <div class="single_counter_item">
-                    <h3><span class="timer">11</span>%</h3>
-                    <h4>Response Rate</h4>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <div class="fluid-container" style="background-color: #090952; margin: 0;">
         <br>
