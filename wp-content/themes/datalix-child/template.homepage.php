@@ -14,8 +14,9 @@
                         enriching your Salesforce CRM with Technographic data.
                     </div>
                     <div class="call-to-action">
-                        <input type="text" placeholder="Enter your work email">
-                        <input type="submit" value="Free Trial">
+<!--                        <input type="text" placeholder="Enter your work email">-->
+                        <a href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
+                        <input type="submit" value="Start Free Trial">
                     </div>
                 </div>
                 <div class="col app-image">
