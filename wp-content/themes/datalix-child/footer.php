@@ -90,9 +90,7 @@
                 <div style="opacity: .7">Contact Us</div>
 
                 <div style="display: flex; flex-direction: column; margin-top: 25px; line-height: 1.8;">
-                    <a href="#" style="font-size: 14px; text-transform: none; color: white;">Tirana, Albania</a>
-                    <a href="#" style="font-size: 14px; text-transform: none; color: white;">Bethpage, NY</a>
-                    <a href="#" style="font-size: 14px; text-transform: none; color: white;">203.548.7726</a>
+<!--                    <a href="#" style="font-size: 14px; text-transform: none; color: white;">Bethpage, NY</a>-->
                     <a href="#" style="font-size: 14px; text-transform: none; color: white;">info@datalix.com</a>
                 </div>
             </div>
