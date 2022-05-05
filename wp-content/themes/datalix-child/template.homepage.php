@@ -345,7 +345,6 @@
     <div class="fluid-container" style="background-color: #090952; margin: 0;">
         <br>
         <br>
-        <br>
         <div class="container custom-container options-box">
             <div class="row" style="color: white">
                 <div class="col-12 feature-box">
@@ -389,9 +388,9 @@
                 </div>
             </div>
 
-            <br><br><br>
+            <br><br>
             <div class="light-hr"></div>
-            <br><br><br>
+            <br><br>
 
             <div class="row" style="color: white">
                 <div class="col-12 feature-box">
@@ -436,7 +435,7 @@
                     <div class="subtitle">Find and verify contact emails are working prior to contacting them.</div>
                 </div>
             </div>
-            <br><br><br>
+            <br><br>
         </div>
     </div>
 
