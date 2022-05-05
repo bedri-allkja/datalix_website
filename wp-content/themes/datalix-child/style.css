@@ -195,7 +195,7 @@ body {
     box-shadow: 0px 5px 6px 0px rgb(0 0 0 / 5%);
 }
 
-.main-section .call-to-action input[type="submit"] {
+.main-section .call-to-action a {
     padding: 15px 20px;
     border: none;
     font-size: 14px;

@@ -16,7 +16,7 @@
                     <div class="call-to-action">
 <!--                        <input type="text" placeholder="Enter your work email">-->
                         <a href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
-                        <input type="submit" value="Start Free Trial">
+<!--                        <input type="submit" value="Start Free Trial">-->
                     </div>
                 </div>
                 <div class="col app-image">
@@ -38,9 +38,9 @@
                     </div>
 
                     <div style="text-align: left;">
-                        <img style="height: 40px; margin-right: 20px"
-                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hubspot.png"
-                             alt="">
+<!--                        <img style="height: 40px; margin-right: 20px"-->
+<!--                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hubspot.png"-->
+<!--                             alt="">-->
                         <img style="height: 50px; margin-top: 6px; margin-right: 20px;"
                              src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/salesforce.png"
                              alt="">
@@ -73,9 +73,10 @@
                     <div class="services-icon">
                         <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
                     </div>
-                    <div class="services-title"> Single Plaform - Full Coverage</div>
+                    <div class="services-title">How it works</div>
                     <div class="services-subtitle">
-                        Clean old lists, keep them healthy, and filter out the bad emails. We’ve got you covered.
+                        Datalix makes it super easy to keep your Salesforce CRM data up to date.
+                        Simply follow these steps to enrich your CRM with the latest technographic data.
                     </div>
                 </div>
             </div>
@@ -84,13 +85,13 @@
                 <div class="col-5">
                     <div class="service-small-title">
                         <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
-                        Analyzer
+                        Step 1
                     </div>
-                    <div class="service-title">E-Commerce Data Analyzing</div>
+                    <div class="service-title">Connect your Salesforce CRM</div>
                     <div class="service-description">
-                        Use our bulk email verifier to improve deliverability and campaign performance in no time.
-                        Use our bulk email verifier to improve deliverability and campaign performance in no time.
-                        Use our bulk email verifier to improve deliverability and campaign performance in no time.
+                        Easily connect your Salesforce CRM and map Datalix fields to the desired
+                        Salesforce fields you'd like to update. If you'd like to configure static values,
+                        that is also available.
                     </div>
                     <div class="service-features">
                         <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Reduce bounces by removing bad emails from your lists.</div>
@@ -98,7 +99,7 @@
                         <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Add email validation features to your own app using our APIs.</div>
                     </div>
                     <br>
-                    <a class="link" href="#">Read More</a>
+                    <a class="link" href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                 </div>
                 <div class="col-7">
                     <img style="height: 120%;  margin: -40px;" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png" alt="">
@@ -113,13 +114,12 @@
                 <div class="col-5">
                     <div class="service-small-title">
                         <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
-                        Analyzer
+                        Step 2
                     </div>
-                    <div class="service-title">E-Commerce Data Analyzing</div>
+                    <div class="service-title">Create a Report</div>
                     <div class="service-description">
-                        Use our bulk email verifier to improve deliverability and campaign performance in no time.
-                        Use our bulk email verifier to improve deliverability and campaign performance in no time.
-                        Use our bulk email verifier to improve deliverability and campaign performance in no time.
+                        Create a Datalix report of the records you want to analyze.
+                        You can upload a CSV file or choose one of your Salesforce Reports.
                     </div>
                     <div class="service-features">
                         <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Reduce bounces by removing bad emails from your lists.</div>
@@ -127,7 +127,7 @@
                         <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Add email validation features to your own app using our APIs.</div>
                     </div>
                     <br>
-                    <a class="link" href="#">Read More</a>
+                    <a class="link" href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                 </div>
             </div>
 
@@ -135,13 +135,12 @@
                 <div class="col-5">
                     <div class="service-small-title">
                         <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
-                        Analyzer
+                        Step 3
                     </div>
-                    <div class="service-title">E-Commerce Data Analyzing</div>
+                    <div class="service-title">Datalix works its magic!</div>
                     <div class="service-description">
-                        Use our bulk email verifier to improve deliverability and campaign performance in no time.
-                        Use our bulk email verifier to improve deliverability and campaign performance in no time.
-                        Use our bulk email verifier to improve deliverability and campaign performance in no time.
+                        Datalix will analyze your records and uncover all of the technographics you have chosen.
+                        It will then give you the option to export the results as a CSV or to update automatically in Salesforce.
                     </div>
                     <div class="service-features">
                         <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Reduce bounces by removing bad emails from your lists.</div>
@@ -149,7 +148,7 @@
                         <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Add email validation features to your own app using our APIs.</div>
                     </div>
                     <br>
-                    <a class="link" href="#">Read More</a>
+                    <a class="link" href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                 </div>
                 <div class="col-7">
                     <img style="height: 120%;  margin: -40px;" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png" alt="">
@@ -352,9 +351,9 @@
                 <div class="col-12 feature-box">
                     <div style="font-size: 30px;  font-weight: 600;">Growing list of Technologies</div>
                     <div class="subtitle">
-                        To lead your prospecting our data specialists source nearly every data field you will require.
-                        We aren’t restricted to what exists in a database; instead we utilize 1000+ data sources & view
-                        every request to be unique, finding data specific to your requirements.
+                        To maximize the effectiveness of your prospecting our data specialists source nearly every
+                        technology a website is running. In addition, we aren’t restricted to technographic data only;
+                        Datalix also leverages our 3rd party integrations to allow you to source and validate contact information.
                     </div>
                 </div>
             </div>
@@ -362,16 +361,14 @@
             <div class="row">
                 <div class="col feature-box">
                     <div class="focused-text">25+</div>
-                    <div class="title">e-Commerce Platforms</div>
-                    <div class="subtitle">ShopifyPlus, Salesforce Commerce Cloud, Bigcommerce, Magento, etc.</div>
+                    <div class="title">Ecommerce Platforms</div>
+                    <div class="subtitle">Datalix uncovers dozens of Analytics technologies being used by companies all over the world.</div>
                 </div>
 
                 <div class="col feature-box">
-                    <div class="focused-text">45+</div>
-                    <div class="title">Analytics Platforms</div>
-                    <div class="subtitle">We apply our data & prospecting experience to your data needs to refine our
-                        research processes.
-                    </div>
+                    <div class="focused-text">75+</div>
+                    <div class="title">Marketing apps</div>
+                    <div class="subtitle">Datalix identifies lots of MarTech solutions including Email, Text, Advertising, and more.</div>
                 </div>
 
                 <div class="col feature-box">
@@ -383,10 +380,11 @@
                 </div>
 
                 <div class="col feature-box">
-                    <div class="focused-text">45+</div>
-                    <div class="title">Psychographic data</div>
-                    <div class="subtitle">Personality, Values, Attitudes, Interests, Lifestyles, Activities, Personas &
-                        more.
+                    <div class="focused-text">100+</div>
+                    <div class="title">SaaS providers</div>
+                    <div class="subtitle">Datalix identifies hundreds of SaaS solutions including CRMs,
+                        Payment Gateways, Customer Service, Shipping, Loyalty & Rewards, Order Management,
+                        Fraud Prevention, Product Warranty, Live Chat, IT and more apps
                     </div>
                 </div>
             </div>

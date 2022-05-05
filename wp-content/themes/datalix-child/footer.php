@@ -23,11 +23,11 @@
     <br><br>
     <div class="row features">
         <div class="col-6 feature-details">
-            <div class="sub-title">#StayInTouch</div>
+            <div class="sub-title">#WhatAreYouWaitingFor?</div>
             <div class="title">Get Started</div>
             <div class="description">
-                Need to quickly ramp up your Lead pipeline? <br>
-                Contact us today to find out how Datalix can help.
+                Technographic data results in more targeted prospecting. <br>
+                10x your Sales pipeline! Start you free trial today (no credit cards required).
             </div>
             <div class="btn-section">
                 <input type="email" class="form-control" id="exampleFormControlInput1"
