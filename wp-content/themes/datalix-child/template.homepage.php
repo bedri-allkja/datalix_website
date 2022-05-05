@@ -388,8 +388,55 @@
                     </div>
                 </div>
             </div>
+
+            <br><br><br>
+            <div class="light-hr"></div>
             <br><br><br>
 
+            <div class="row" style="color: white">
+                <div class="col-12 feature-box">
+                    <div style="font-size: 30px;  font-weight: 600;">Benefits</div>
+                    <div class="subtitle">
+                        To maximize the effectiveness of your prospecting our data specialists source nearly every
+                        technology a website is running. In addition, we aren’t restricted to technographic data only;
+                        Datalix also leverages our 3rd party integrations to allow you to source and validate contact information.
+                    </div>
+                </div>
+            </div>
+            <br><br>
+            <div class="row">
+                <div class="col feature-box">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png" alt="">
+                    <div class="title">Increase Revenue</div>
+                    <div class="subtitle">10x your prospecting pipeline by knowing the technologies they’re running
+                        (ex. Ecommerce platform, Analytics, Live Chat, etc.).</div>
+                </div>
+
+                <div class="col feature-box">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png" alt="">
+                    <div class="title">Minimize Churn</div>
+                    <div class="subtitle">Identify when competitor technologies are added to your customers’ websites</div>
+                </div>
+
+                <div class="col feature-box">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png" alt="">
+                    <div class="title">Save Time</div>
+                    <div class="subtitle">Reduce Manual Time spent updating your CRM</div>
+                </div>
+
+                <div class="col feature-box">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png" alt="">
+                    <div class="title">Maintain Accuracy</div>
+                    <div class="subtitle">Keep your CRM records accurate via automation. Avoid human error and duplication.</div>
+                </div>
+
+                <div class="col feature-box">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png" alt="">
+                    <div class="title">Source & Validate Contacts</div>
+                    <div class="subtitle">Find and verify contact emails are working prior to contacting them.</div>
+                </div>
+            </div>
+            <br><br><br>
         </div>
     </div>
 
