@@ -42,7 +42,7 @@
 <!--                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hubspot.png"-->
 <!--                             alt="">-->
                         <img style="height: 50px; margin-top: 6px; margin-right: 20px;"
-                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/salesforce.png"
+                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/salesforse.png"
                              alt="">
                         <img style="height: 30px; margin-right: 20px"
                              src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hunter.png"
@@ -361,7 +361,8 @@
                 <div class="col feature-box">
                     <div class="focused-text">25+</div>
                     <div class="title">Ecommerce Platforms</div>
-                    <div class="subtitle">Datalix uncovers dozens of Analytics technologies being used by companies all over the world.</div>
+                    <div class="subtitle">Datalix will pinpoint the ecommerce platform being used by a website including, but not limited to:
+                        Shopify, ShopifyPlus, Bigcommerce, Magento, Salesforce Commerce Cloud, WooCommerce, Shift4Shop, and more.</div>
                 </div>
 
                 <div class="col feature-box">
@@ -381,9 +382,8 @@
                 <div class="col feature-box">
                     <div class="focused-text">100+</div>
                     <div class="title">SaaS providers</div>
-                    <div class="subtitle">Datalix identifies hundreds of SaaS solutions including CRMs,
-                        Payment Gateways, Customer Service, Shipping, Loyalty & Rewards, Order Management,
-                        Fraud Prevention, Product Warranty, Live Chat, IT and more apps
+                    <div class="subtitle">Datalix tracks lots of SaaS solutions including Payment, Customer Service,
+                        Shipping, Loyalty & Rewards, Order Management, Fraud Prevention, Product Warranty, and Live Chat
                     </div>
                 </div>
             </div>

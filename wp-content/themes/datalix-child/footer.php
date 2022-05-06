@@ -30,9 +30,9 @@
                 10x your Sales pipeline! Start you free trial today (no credit cards required).
             </div>
             <div class="btn-section">
-                <input type="email" class="form-control" id="exampleFormControlInput1"
-                       placeholder="Enter your email">
-                <a href="">Get Started</a>
+<!--                <input type="email" class="form-control" id="exampleFormControlInput1"-->
+<!--                       placeholder="Enter your email">-->
+                <a href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
             </div>
         </div>
 
