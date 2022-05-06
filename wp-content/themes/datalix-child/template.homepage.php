@@ -175,13 +175,13 @@
                 </div>
                 <div class="col-7">
 <!--                    <img style="height: 120%;  margin: -40px;" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png" alt="">-->
-                    <img style="height: 120%;  margin: -40px; background: radial-gradient(50% 50% at 50% 50%, #295DFB 0%, rgba(191, 199, 218, 0) 100%);" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
+                    <img style="height: 100%; background: radial-gradient(50% 50% at 50% 50%, #295DFB 0%, rgba(191, 199, 218, 0) 100%);" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
                 </div>
             </div>
 
             <div class="row service-row">
                 <div class="col-7">
-                    <img style="height: 120%;  margin: -40px; background: radial-gradient(50% 50% at 50% 50%, #295DFB 0%, rgba(191, 199, 218, 0) 100%);" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
+                    <img style="height: 100%; background: radial-gradient(50% 50% at 50% 50%, #295DFB 0%, rgba(191, 199, 218, 0) 100%);" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
                 </div>
 
                 <div class="col-5">
@@ -224,7 +224,7 @@
                     <a class="link" href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                 </div>
                 <div class="col-7">
-                    <img style="height: 120%;  margin: -40px; background: radial-gradient(50% 50% at 50% 50%, #295DFB 0%, rgba(191, 199, 218, 0) 100%);" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
+                    <img style="height: 100%; background: radial-gradient(50% 50% at 50% 50%, #295DFB 0%, rgba(191, 199, 218, 0) 100%);" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
                 </div>
             </div>
         </div>
