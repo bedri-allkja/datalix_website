@@ -154,7 +154,7 @@
             </div>
 
             <div class="row service-row">
-                <div class="col-5">
+                <div class="col-6 feature-info">
                     <div class="service-small-title">
                         <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
                         Step 1
@@ -173,17 +173,17 @@
                     <br>
                     <a class="link" href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                 </div>
-                <div class="col-7 text-center">
-                    <img style="width: 550px; background: radial-gradient(50% 50% at 50% 50%, #295DFB 0%, rgba(191, 199, 218, 0) 100%);" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
+                <div class="col-6 text-center feature-image">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
                 </div>
             </div>
 
             <div class="row service-row">
-                <div class="col-7 text-center">
-                    <img style="width: 550px; background: radial-gradient(50% 50% at 50% 50%, #295DFB 0%, rgba(191, 199, 218, 0) 100%);" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
+                <div class="col-6 text-center feature-image">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
                 </div>
 
-                <div class="col-5">
+                <div class="col-6 feature-info">
                     <div class="service-small-title">
                         <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
                         Step 2
@@ -204,7 +204,7 @@
             </div>
 
             <div class="row service-row">
-                <div class="col-5">
+                <div class="col-6 feature-info">
                     <div class="service-small-title">
                         <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
                         Step 3
@@ -222,8 +222,8 @@
                     <br>
                     <a class="link" href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                 </div>
-                <div class="col-7 text-center">
-                    <img style="width: 550px; background: radial-gradient(50% 50% at 50% 50%, #295DFB 0%, rgba(191, 199, 218, 0) 100%);" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
+                <div class="col-6 text-center feature-image">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
                 </div>
             </div>
         </div>

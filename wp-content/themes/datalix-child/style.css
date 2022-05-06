@@ -532,13 +532,22 @@ body {
 .service-row {
     display: flex;
     align-items: center;
-    margin-bottom: 150px;
+    margin-bottom: 70px;
     margin-top: 70px;
+}
+
+.service-row .feature-info:nth-child(odd) {
+    padding-left: 100px;
+}
+
+.service-row .feature-image img {
+    width: 550px;
+    background: radial-gradient(50% 50% at 50% 50%, #14e3dc 0%, rgba(191, 199, 218, 0) 90%);
 }
 
 .services-ctn {
     background-color: #e9ecef;
-    padding-top: 50px;
+    padding-top: 70px;
     margin-bottom: 0;
 }
 .service-row:last-child {
@@ -559,6 +568,9 @@ body {
 .services-ctn .services-subtitle {
     color: #786eaf;
     font-size: 16px;
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .services-ctn .service-small-title {
