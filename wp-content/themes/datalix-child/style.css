@@ -90,7 +90,7 @@ body {
 }
 
 .header-menu .right-menu a:focus {
-    background-color: #090952;
+    background-color: #090952 !important;
 }
 
 .header-menu .right-menu a.outline-btn {
@@ -164,7 +164,7 @@ body {
 
 .main-section .secondary-text {
     font-size: 16px;
-    margin-top: 15px;
+    margin-top: 20px;
     margin-bottom: 30px;
     color: #071c4d;
     opacity: .9;
@@ -186,12 +186,12 @@ body {
 }
 
 .main-section .btn-section a:focus {
-    background-color: #090952;
+    background-color: #090952 !important;
 }
 
 .main-section .call-to-action {
     position: relative;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .main-section .call-to-action input[type="text"] {
@@ -217,7 +217,7 @@ body {
 }
 
 .main-section .call-to-action a:focus {
-    background-color: #090952;
+    background-color: #090952 !important;
 }
 
 .main-section .team-images {
@@ -363,7 +363,7 @@ body {
 }
 
 .features .feature-details .btn-section a:focus {
-    background-color: #090952;
+    background-color: #090952 !important;
 }
 
 .features .feature-details .btn-section input {
@@ -621,7 +621,7 @@ body {
 }
 
 .services-ctn a:focus {
-    background-color: #090952;
+    background-color: #090952 !important;
 }
 
 
@@ -684,7 +684,7 @@ body {
 }
 
 .pricing-card .plan-feature-btn a:focus {
-    background-color: #090952;
+    background-color: #090952 !important;
 }
 
 
@@ -767,7 +767,7 @@ body {
 }
 
 .pricing-card .plan-btn a:focus {
-    background-color: #090952;
+    background-color: #090952 !important;
 }
 
 .feature-box {

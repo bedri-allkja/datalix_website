@@ -17,7 +17,7 @@
                         <a href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                     </div>
 
-                    <div class="row" style="margin-top: 30px;">
+                    <div class="row" style="margin-top: 50px;">
                         <div class="col-12">
                             <div style="text-align: left; font-size: 14px; margin-bottom: 10px; color: #071c4d; opacity: .6;">
                                 Our Integrations
@@ -30,7 +30,7 @@
                                 <img style="height: 25px; margin-right: 15px"
                                      src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hunter.png"
                                      alt="">
-                                <img style="height: 40px; margin-right: 15px;"
+                                <img style="height: 36px; margin-right: 15px;"
                                      src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/norbert.png"
                                      alt="">
                                 <img style="height: 30px; margin-right: 15px"
