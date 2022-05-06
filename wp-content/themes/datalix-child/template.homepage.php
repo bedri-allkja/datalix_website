@@ -165,23 +165,22 @@
                         Salesforce fields you'd like to update. If you'd like to configure static values,
                         that is also available.
                     </div>
-                    <div class="service-features">
-                        <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Reduce bounces by removing bad emails from your lists.</div>
-                        <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Improve your email deliverability by up to 99%.</div>
-                        <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Add email validation features to your own app using our APIs.</div>
-                    </div>
+<!--                    <div class="service-features">-->
+<!--                        <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Reduce bounces by removing bad emails from your lists.</div>-->
+<!--                        <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Improve your email deliverability by up to 99%.</div>-->
+<!--                        <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Add email validation features to your own app using our APIs.</div>-->
+<!--                    </div>-->
                     <br>
                     <a class="link" href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                 </div>
-                <div class="col-7">
-<!--                    <img style="height: 120%;  margin: -40px;" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png" alt="">-->
-                    <img style="height: 100%; background: radial-gradient(50% 50% at 50% 50%, #295DFB 0%, rgba(191, 199, 218, 0) 100%);" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
+                <div class="col-7 text-center">
+                    <img style="width: 550px; background: radial-gradient(50% 50% at 50% 50%, #295DFB 0%, rgba(191, 199, 218, 0) 100%);" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
                 </div>
             </div>
 
             <div class="row service-row">
-                <div class="col-7">
-                    <img style="height: 100%; background: radial-gradient(50% 50% at 50% 50%, #295DFB 0%, rgba(191, 199, 218, 0) 100%);" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
+                <div class="col-7 text-center">
+                    <img style="width: 550px; background: radial-gradient(50% 50% at 50% 50%, #295DFB 0%, rgba(191, 199, 218, 0) 100%);" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
                 </div>
 
                 <div class="col-5">
@@ -223,8 +222,8 @@
                     <br>
                     <a class="link" href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                 </div>
-                <div class="col-7">
-                    <img style="height: 100%; background: radial-gradient(50% 50% at 50% 50%, #295DFB 0%, rgba(191, 199, 218, 0) 100%);" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
+                <div class="col-7 text-center">
+                    <img style="width: 550px; background: radial-gradient(50% 50% at 50% 50%, #295DFB 0%, rgba(191, 199, 218, 0) 100%);" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
                 </div>
             </div>
         </div>
