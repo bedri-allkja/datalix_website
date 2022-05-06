@@ -16,6 +16,35 @@
                     <div class="call-to-action">
                         <a href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                     </div>
+
+                    <div class="row" style="margin-top: 30px;">
+                        <div class="col-12">
+                            <div style="text-align: left; font-size: 14px; margin-bottom: 10px; color: #071c4d; opacity: .6;">
+                                Our Integrations
+                            </div>
+
+                            <div style="text-align: left;">
+                                <img style="height: 35px; margin-right: 15px;"
+                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/salesforse.png"
+                                     alt="">
+                                <img style="height: 25px; margin-right: 15px"
+                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hunter.png"
+                                     alt="">
+                                <img style="height: 40px; margin-right: 15px;"
+                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/norbert.png"
+                                     alt="">
+                                <img style="height: 30px; margin-right: 15px"
+                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/kickbox.svg"
+                                     alt="">
+                                <img style="height: 25px; margin-right: 10px"
+                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/snov-io.svg"
+                                     alt="">
+                                <img style="height: 40px;"
+                                     src=https://stg.datalix.com/wp-content/themes/datalix-child/"assets/img/hubspot.png"
+                                     alt="">
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="col app-image">
                     <img class="img-1"
@@ -26,41 +55,41 @@
         </div>
     </div>
 
-    <div class="fluid-container" style="background: #f9f9f9; margin: 0;">
-        <div class="container page-container">
-            <div class="row">
-                <div class="col-12">
-                    <div style="text-align: left; font-size: 16px; margin-bottom: 10px; color: #071c4d; opacity: .9;">
-                        Our Integrations
-                    </div>
-
-                    <div style="text-align: left;">
-<!--                        <img style="height: 40px; margin-right: 20px"-->
-<!--                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hubspot.png"-->
+<!--    <div class="fluid-container" style="background: #f9f9f9; margin: 0;">-->
+<!--        <div class="container page-container">-->
+<!--            <div class="row">-->
+<!--                <div class="col-12">-->
+<!--                    <div style="text-align: left; font-size: 16px; margin-bottom: 10px; color: #071c4d; opacity: .9;">-->
+<!--                        Our Integrations-->
+<!--                    </div>-->
+<!---->
+<!--                    <div style="text-align: left;">-->
+<!--<!--                        <img style="height: 40px; margin-right: 20px"-->-->
+<!--<!--                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hubspot.png"-->-->
+<!--<!--                             alt="">-->-->
+<!--                        <img style="height: 50px; margin-top: 6px; margin-right: 20px;"-->
+<!--                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/salesforse.png"-->
 <!--                             alt="">-->
-                        <img style="height: 50px; margin-top: 6px; margin-right: 20px;"
-                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/salesforse.png"
-                             alt="">
-                        <img style="height: 30px; margin-right: 20px"
-                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hunter.png"
-                             alt="">
-                        <img style="height: 50px; margin-top: 6px; margin-right: 20px;"
-                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/norbert.png"
-                             alt="">
-                        <img style="height: 40px; margin-right: 20px"
-                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/kickbox.svg"
-                             alt="">
-                        <img style="height: 30px; margin-right: 20px"
-                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/snov-io.svg"
-                             alt="">
-                        <img style="height: 40px;"
-                             src=https://stg.datalix.com/wp-content/themes/datalix-child/"assets/img/hubspot.png"
-                             alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<!--                        <img style="height: 30px; margin-right: 20px"-->
+<!--                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hunter.png"-->
+<!--                             alt="">-->
+<!--                        <img style="height: 50px; margin-top: 6px; margin-right: 20px;"-->
+<!--                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/norbert.png"-->
+<!--                             alt="">-->
+<!--                        <img style="height: 40px; margin-right: 20px"-->
+<!--                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/kickbox.svg"-->
+<!--                             alt="">-->
+<!--                        <img style="height: 30px; margin-right: 20px"-->
+<!--                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/snov-io.svg"-->
+<!--                             alt="">-->
+<!--                        <img style="height: 40px;"-->
+<!--                             src=https://stg.datalix.com/wp-content/themes/datalix-child/"assets/img/hubspot.png"-->
+<!--                             alt="">-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
 
     <div class="fluid-container" style="background-color: #090952; margin: 0; margin-top: 90px;">
         <br><br><br>
