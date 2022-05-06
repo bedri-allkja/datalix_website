@@ -79,7 +79,7 @@
                 </div>
             </div>
             <br><br>
-            <div class="row">
+            <div class="row text-center">
                 <div class="col feature-box">
                     <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png" alt="">
                     <div class="title">Increase Revenue</div>
@@ -406,7 +406,7 @@
                 </div>
             </div>
             <br><br>
-            <div class="row">
+            <div class="row text-center">
                 <div class="col feature-box">
                     <div class="focused-text">25+</div>
                     <div class="title">Ecommerce Platforms</div>
