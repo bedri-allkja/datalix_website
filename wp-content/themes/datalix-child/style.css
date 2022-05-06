@@ -35,7 +35,7 @@ body {
 }
 
 .header-menu .left-menu img.logo {
-    width: 130px;
+    width: 170px;
     /*margin-bottom: -10px;*/
 }
 
@@ -87,6 +87,10 @@ body {
     font-size: 14px;
     border-radius: 5px;
     /*box-shadow: 0 2.8px 2.2px rgb(44 255 70 / 3%), 0 6.7px 5.3px rgb(33 255 142 / 5%), 0 12.5px 10px rgb(17 255 79 / 6%), 0 22.3px 17.9px rgb(63 255 42 / 7%), 0 41.8px 33.4px rgb(72 218 27 / 9%), 0 100px 80px rgb(0 0 0 / 12%);*/
+}
+
+.header-menu .right-menu a:focus {
+    background-color: #090952;
 }
 
 .header-menu .right-menu a.outline-btn {
@@ -181,6 +185,10 @@ body {
     border-radius: 5px;
 }
 
+.main-section .btn-section a:focus {
+    background-color: #090952;
+}
+
 .main-section .call-to-action {
     position: relative;
     margin-top: 20px;
@@ -206,6 +214,10 @@ body {
     background: #14e3dc;
     color: white;
     margin-left: 0;
+}
+
+.main-section .call-to-action a:focus {
+    background-color: #090952;
 }
 
 .main-section .team-images {
@@ -348,6 +360,10 @@ body {
     border-radius: 5px;
     -webkit-box-shadow: 0px 4px 9px 5px rgb(0 0 0 / 10%);
     box-shadow: 0px 5px 6px 0px rgb(0 0 0 / 5%);
+}
+
+.features .feature-details .btn-section a:focus {
+    background-color: #090952;
 }
 
 .features .feature-details .btn-section input {
@@ -604,6 +620,10 @@ body {
     text-decoration: none;
 }
 
+.services-ctn a:focus {
+    background-color: #090952;
+}
+
 
 .title-left-big {
     font-size: 32px;
@@ -662,6 +682,11 @@ body {
     font-size: 16px;
     border-radius: 5px;
 }
+
+.pricing-card .plan-feature-btn a:focus {
+    background-color: #090952;
+}
+
 
 .pricing-card.feature .sub-note{
     font-size: 16px;
@@ -739,6 +764,10 @@ body {
     width: 100%;
     display: block;
     text-align: center;
+}
+
+.pricing-card .plan-btn a:focus {
+    background-color: #090952;
 }
 
 .feature-box {
