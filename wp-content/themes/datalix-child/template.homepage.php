@@ -14,9 +14,7 @@
                         enriching your Salesforce CRM with Technographic data.
                     </div>
                     <div class="call-to-action">
-<!--                        <input type="text" placeholder="Enter your work email">-->
                         <a href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
-<!--                        <input type="submit" value="Start Free Trial">-->
                     </div>
                 </div>
                 <div class="col app-image">
@@ -27,7 +25,6 @@
             </div>
         </div>
     </div>
-
 
     <div class="fluid-container" style="background: #f9f9f9; margin: 0;">
         <div class="container page-container">
@@ -65,8 +62,8 @@
         </div>
     </div>
 
-    <div class="fluid-container" style="background-color: #090952; margin: 0;">
-        <br><br>
+    <div class="fluid-container" style="background-color: #090952; margin: 0; margin-top: 90px;">
+        <br><br><br>
         <div class="container custom-container options-box">
             <div class="row text-center" style="color: white">
                 <div class="col-12 feature-box">
@@ -112,11 +109,10 @@
                 </div>
             </div>
         </div>
-        <br><br>
+        <br><br><br>
     </div>
 
-
-    <div class="fluid-container services-ctn">
+    <div class="fluid-container services-ctn" style="margin-top: 0;">
         <div class="container page-container">
             <div class="row">
                 <div class="col-12 text-center">
@@ -393,7 +389,7 @@
 
 
     <div class="fluid-container" style="background-color: #090952; margin: 0;">
-        <br><br>
+        <br><br><br>
         <div class="container custom-container options-box">
             <div class="row text-center" style="color: white">
                 <div class="col-12 feature-box">
@@ -437,7 +433,7 @@
                 </div>
             </div>
         </div>
-        <br><br>
+        <br><br><br>
     </div>
 
 <?php get_footer(); ?>
