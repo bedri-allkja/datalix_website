@@ -180,7 +180,7 @@
 
             <div class="row service-row">
                 <div class="col-6 text-center feature-image">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-import.png" alt="">
                 </div>
 
                 <div class="col-6 feature-info">

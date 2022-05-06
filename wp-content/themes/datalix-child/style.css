@@ -532,12 +532,16 @@ body {
 .service-row {
     display: flex;
     align-items: center;
-    margin-bottom: 70px;
-    margin-top: 70px;
+    margin-bottom: 50px;
+    margin-top: 20px;
 }
 
 .service-row .feature-info:nth-child(odd) {
-    padding-left: 100px;
+    padding-left: 90px;
+}
+
+.service-row .feature-info:nth-child(even) {
+    padding-right: 90px;
 }
 
 .service-row .feature-image img {
@@ -571,6 +575,7 @@ body {
     max-width: 800px;
     text-align: center;
     margin: 0 auto;
+    margin-bottom: 50px;
 }
 
 .services-ctn .service-small-title {
@@ -800,9 +805,9 @@ body {
 .feature-box .subtitle {
     color: #ffffff94;
     font-size: 14px;
+    max-width: 1200px;
+    margin: 0 auto;
     margin-top: 15px;
-    /*color: #071c4d;*/
-    /*opacity: .9;*/
 }
 
 .feature-box .focused-text {
