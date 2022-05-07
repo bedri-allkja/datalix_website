@@ -63,8 +63,8 @@
                 </div>
 
             </div>
-            <div class="col-lg-4 col-md-2 col-lg-12"></div>
-            <div class="col-lg-2 col-md-4 col-lg-12 contact-col">
+            <div class="col-lg-4 col-md-2 col-sm-12"></div>
+            <div class="col-lg-2 col-md-4 col-sm-12 contact-col">
                 <div class="title">Contact Us</div>
 
                 <div class="links">
