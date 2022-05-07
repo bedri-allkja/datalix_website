@@ -23,7 +23,7 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 <div class="fluid-container main-header">
     <div class="container custom-container">
         <div class="row header-menu">
-            <div class="col-8 left-menu">
+            <div class="col-lg-8 col-md-6 col-sm-6 left-menu">
                 <a href="https://stg.datalix.com/">
                     <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix.png" class="logo">
                 </a>
@@ -83,7 +83,7 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 <!--                                            <a href="">Join our team <span>Hiring Now!</span></a>-->
 <!--                </div>-->
             </div>
-            <div class="col right-menu">
+            <div class="col-lg-4 col-md-6 col-sm-6 right-menu">
                 <a href="https://app.datalix.com/" target="_blank" class="outline-btn">Login</a>
                 <a href="https://app.datalix.com/auth/register" target="_blank" style="margin-left: 15px;">Sign Up</a>
             </div>
