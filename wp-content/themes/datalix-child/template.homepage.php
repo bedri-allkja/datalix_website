@@ -45,7 +45,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-7 col-md-6 col-sm-12app-image">
+                <div class="col-lg-7 col-md-6 col-sm-12 app-image">
                     <img class="img-1"
                          src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-screen.png"
                          alt="">
@@ -153,7 +153,7 @@
             </div>
 
             <div class="row service-row">
-                <div class="col-6 feature-info">
+                <div class="col-lg-6 col-md-12 col-sm-12 feature-info">
                     <div class="service-small-title">
                         <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
                         Step 1
@@ -172,17 +172,17 @@
                     <br>
                     <a class="link" href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                 </div>
-                <div class="col-6 text-center feature-image">
+                <div class="col-lg-6 col-md-12 col-sm-12 text-center feature-image">
                     <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
                 </div>
             </div>
 
             <div class="row service-row">
-                <div class="col-6 text-center feature-image">
+                <div class="col-lg-6 col-md-12 col-sm-12 text-center feature-image">
                     <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-import.png" alt="">
                 </div>
 
-                <div class="col-6 feature-info">
+                <div class="col-lg-6 col-md-12 col-sm-12 feature-info">
                     <div class="service-small-title">
                         <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
                         Step 2
@@ -203,7 +203,7 @@
             </div>
 
             <div class="row service-row">
-                <div class="col-6 feature-info">
+                <div class="col-lg-6 col-md-12 col-sm-12 feature-info">
                     <div class="service-small-title">
                         <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
                         Step 3
@@ -221,7 +221,7 @@
                     <br>
                     <a class="link" href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                 </div>
-                <div class="col-6 text-center feature-image">
+                <div class="col-lg-6 col-md-12 col-sm-12 text-center feature-image">
                     <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/tech-chart.png" alt="">
                 </div>
             </div>

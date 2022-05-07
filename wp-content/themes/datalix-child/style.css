@@ -21,7 +21,7 @@ body {
 }
 
 .page-container {
-    width: 1360px !important;
+    /*width: 1360px !important;*/
     max-width: 1360px !important;
 }
 
