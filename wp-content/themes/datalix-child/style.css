@@ -1211,6 +1211,7 @@ body h1 {
 
     .options-box .feature-box {
         margin-bottom: 40px;
+        padding-right: 15px;
     }
 
     .options-box .feature-box:last-child {
@@ -1227,6 +1228,10 @@ body h1 {
 
     .features .feature-details {
         text-align: center;
+    }
+
+    .features .feature-image img{
+        margin-top: 30px;
     }
 
     .integrations .icons {
