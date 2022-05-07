@@ -1172,6 +1172,7 @@ body h1 {
 
 .singular .entry-header {
     border-bottom: 3px solid #1ee3dd;
+    margin-bottom: 40px;
 }
 
 .post-thumbnail,
