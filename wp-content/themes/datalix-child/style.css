@@ -1162,7 +1162,7 @@ body h1 {
     margin-top: 25px
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 990px) {
     .service-row .feature-info:nth-child(odd), .service-row .feature-info:nth-child(even) {
         padding-left: 0 !important;
         padding-right: 0 !important;
@@ -1257,5 +1257,9 @@ body h1 {
 
     .services-ctn {
         padding: 70px 15px 0 15px;
+    }
+
+    .main-section {
+        height: 100% !important;
     }
 }
