@@ -1114,9 +1114,26 @@ body h1 {
 
     .service-row .feature-image img {
         width: calc(100% - 30px) !important;
+        margin-bottom: 30px;
     }
 
-    .page-container .service-row:nth-child(even) {
+    .options-box .feature-box {
+        margin-bottom: 40px;
+    }
+
+    .options-box .feature-box:last-child {
+        margin-bottom: 0;
+    }
+
+    .page-container .service-row:nth-child(odd) {
         flex-direction: column-reverse !important;
+    }
+
+    .page-container {
+        max-width: unset !important;
+    }
+
+    .features .feature-details{
+        text-align: center;
     }
 }
