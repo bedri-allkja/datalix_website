@@ -1206,6 +1206,7 @@ body h1 {
     .service-row .feature-image img {
         width: calc(100% - 30px) !important;
         margin-bottom: 30px;
+        margin-top: 30px;
     }
 
     .options-box .feature-box {
