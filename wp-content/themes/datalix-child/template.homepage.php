@@ -7,11 +7,11 @@
             <div class="row main-section">
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <div class="section-text">
-                        Data <span>intelligence</span><br> for Sales & CS teams
+                        Data <span>intelligence</span><br> for Go 2 Market teams
                     </div>
                     <div class="secondary-text">
-                        Maximize Sales prospecting and Customer retention by automatically <br>
-                        enriching your Salesforce CRM with Technographic data.
+                        Maximize Sales prospecting, Marketing campaigns, <br>
+                        and Customer retention by automatically enriching your Salesforce CRM with Technographic data.
                     </div>
                     <div class="call-to-action">
                         <a href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
@@ -23,7 +23,7 @@
                             </div>
 
                             <div class="icons">
-                                <img class="large"
+                                <img class="extra-large"
                                      src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/salesforse.png"
                                      alt="">
                                 <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hunter.png"
@@ -431,16 +431,16 @@
 
                 <div class="col-lg-3 col-md-6 col-sm-12 feature-box">
                     <div class="focused-text">75+</div>
-                    <div class="title">Marketing apps</div>
-                    <div class="subtitle">Datalix identifies lots of MarTech solutions including Email, Text, Advertising, and more.</div>
+                    <div class="title">Analytics Platforms</div>
+                    <div class="subtitle">Datalix uncovers dozens of Analytics technologies being used by companies all
+                        over the world (ex. Google Analytics, Matomo, Mixpanel, Heap, New Relic, etc.)
+                    </div>
                 </div>
 
                 <div class="col-lg-3 col-md-6 col-sm-12 feature-box">
                     <div class="focused-text">45+</div>
-                    <div class="title">Technographic data</div>
-                    <div class="subtitle">Technology, Analytics, Email Marketing, Advertising, Hosting, Ecommerce &
-                        more.
-                    </div>
+                    <div class="title">Marketing apps</div>
+                    <div class="subtitle">Datalix identifies lots of MarTech solutions including Email, Text, Advertising, and more.</div>
                 </div>
 
                 <div class="col-lg-3 col-md-6 col-sm-12 feature-box">

@@ -53,8 +53,8 @@
                 <div class="company-info">
                     <img class="logo" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-white.png">
                     <div style="font-size: 14px; max-width: 600px; margin-top: 20px; opacity: .8; line-height: 1.8;">
-                        Datalix is a Data as a Service (DaaS) company, providing technographic data for millions of
-                        websites.
+                        Datalix is a Data as a Service (DaaS) company, providing technographic data for Sales,
+                        Marketing, Customer Success, and Partnerships teams on millions of websites.
                     </div>
                     <div class="signature">
                         Designed with <i class="fa fa-heart" style="color: #e91e63;" aria-hidden="true"></i> by
@@ -68,7 +68,7 @@
                 <div class="title">Contact Us</div>
 
                 <div class="links">
-                    <a href="#" style="font-size: 14px; text-transform: none; color: white;">info@datalix.com</a>
+                    <a href="mailto:info@datalix.com" style="font-size: 14px; text-transform: none; color: white;">info@datalix.com</a>
                 </div>
             </div>
         </div>
@@ -78,20 +78,22 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12">
                 <div class="footer-bttm-text">Copyright © <span class="footer-span text-span-6">Datalix, LLC.</span>
-                    2022 &nbsp;| &nbsp;All rights reserved. &nbsp;| &nbsp;<a
-                            href="https://stg.datalix.com/wp-content/themes/datalix-child/privacy-policy"
+                    2022 &nbsp;| &nbsp;All rights reserved.
+                    <a href="https://stg.datalix.com/privacy-policy" class="link-2">
+                        <span class="text-span-6" style="color: white;">Privacy</span></a> &nbsp;| &nbsp;
 
-                            class="link-2"><span
-                                class="text-span-6" style="color: white;">Privacy</span></a></div>
+                    <a href="https://stg.datalix.com/privacy-policy" class="link-2">
+                        <span class="text-span-6" style="color: white;">Terms</span></a>
+                </div>
             </div>
 
             <div class="col-lg-6 col-md-6 col-sm-12">
-                <div class="social-media">
-                    <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                    <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                    <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                    <a href=""><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
-                </div>
+<!--                <div class="social-media">-->
+<!--                    <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>-->
+<!--                    <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>-->
+<!--                    <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>-->
+<!--                    <a href=""><i class="fa fa-youtube-play" aria-hidden="true"></i></a>-->
+<!--                </div>-->
             </div>
         </div>
         <br>
