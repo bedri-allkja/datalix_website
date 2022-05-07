@@ -223,7 +223,7 @@
                     <a class="link" href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                 </div>
                 <div class="col-6 text-center feature-image">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/tech-chart.png" alt="">
                 </div>
             </div>
         </div>
