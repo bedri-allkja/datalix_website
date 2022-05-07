@@ -1180,6 +1180,12 @@ body h1 {
 *[class*=inner-container] > *:not(.entry-content):not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.wp-block-separator):not(.woocommerce),
 .default-max-width {
     max-width: 1240px;
+    font-family: 'Poppins';
+    color: #090952;
+}
+
+.entry-content p{
+    color: #071c4d !important;
 }
 
 @media only screen and (max-width: 990px) {
