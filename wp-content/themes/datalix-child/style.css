@@ -1162,6 +1162,26 @@ body h1 {
     margin-top: 25px
 }
 
+
+.singular .entry-title {
+    color: #090925;
+    font-weight: bold;
+    font-family: 'Poppins';
+    font-size: 42px !important;
+}
+
+.singular .entry-header {
+    border-bottom: 3px solid #1ee3dd;
+}
+
+.entry-content {
+    max-width: 1240px;
+}
+
+.entry-content h2, .entry-content p, .entry-content div, .entry-content h3, .entry-content h2, .entry-content h4 {
+    margin: 0;
+}
+
 @media only screen and (max-width: 990px) {
     .service-row .feature-info:nth-child(odd), .service-row .feature-info:nth-child(even) {
         padding-left: 0 !important;
