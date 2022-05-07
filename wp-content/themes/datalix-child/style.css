@@ -1099,7 +1099,21 @@ body h1 {
     margin: 0;
 }
 
+.integrations {
+    margin-top: 43px;
+}
 
+.integrations .label {
+    text-align: left;
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: #071c4d;
+    opacity: .6;
+}
+
+.integrations .icons {
+    text-align: left;
+}
 
 @media only screen and (max-width: 600px) {
     .service-row .feature-info:nth-child(odd), .service-row .feature-info:nth-child(even) {
@@ -1108,7 +1122,7 @@ body h1 {
         text-align: center !important;
     }
 
-    .services-ctn .service-small-title {
+    .services-ctn .service-small-title, .features .feature-details .btn-section {
         justify-content: center !important;
     }
 
@@ -1134,6 +1148,27 @@ body h1 {
     }
 
     .features .feature-details{
+        text-align: center;
+    }
+
+    .main-section .section-text, .main-section .secondary-text, .main-section .call-to-action {
+        text-align: center;
+    }
+
+    .main-section .app-image .img-1 {
+        border-radius: 10px;
+        object-fit: contain;
+        height: 100%;
+        width: 100%;
+        margin-right: 0;
+        margin-top: 20px;
+    }
+
+    .main {
+        overflow: inherit;
+    }
+
+    .integrations .label {
         text-align: center;
     }
 }

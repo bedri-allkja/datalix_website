@@ -16,13 +16,13 @@
                     <div class="call-to-action">
                         <a href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                     </div>
-                    <div class="row" style="margin-top: 43px;">
+                    <div class="row integrations">
                         <div class="col-12">
-                            <div style="text-align: left; font-size: 14px; margin-bottom: 10px; color: #071c4d; opacity: .6;">
+                            <div class="label">
                                 Our Integrations
                             </div>
 
-                            <div style="text-align: left;">
+                            <div class="icons">
                                 <img style="height: 35px; margin-right: 15px;"
                                      src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/salesforse.png"
                                      alt="">
