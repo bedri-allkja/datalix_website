@@ -1229,7 +1229,7 @@ body h1 {
         height: 20px;
     }
 
-    .integrations .icons img.large {
+    .integrations .icons img.large, .integrations .icons img.extra-large  {
         height: 25px;
     }
 
