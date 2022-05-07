@@ -550,7 +550,6 @@ body {
 
 .service-row .feature-image img {
     width: 550px;
-    background: radial-gradient(50% 50% at 50% 50%, #14e3dc 0%, rgba(191, 199, 218, 0) 90%);
 }
 
 .services-ctn {
