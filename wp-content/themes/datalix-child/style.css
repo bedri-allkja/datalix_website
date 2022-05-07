@@ -433,8 +433,9 @@ body {
 
 
 .footer {
-    /*color: #f4f4f4;*/
-    /*padding: 70px 0 30px 0;*/
+    color: #f4f4f4;
+    padding-top: 70px;
+    padding-bottom: 30px;
 }
 
 .footer  .light-hr {
@@ -620,7 +621,7 @@ body {
 .services-ctn .service-description {
     font-size: 14px;
     margin-top: 10px;
-    color: #071c4d;
+    color: #786eaf;
     opacity: .9;
 }
 
@@ -1127,6 +1128,20 @@ body h1 {
     text-align: left;
 }
 
+.integrations .icons img {
+    margin-right: 15px;
+    height: 30px;
+}
+
+.integrations .icons img.large {
+    height: 35px;
+}
+
+
+.integrations .icons img:last-child {
+    margin-right: 0;
+}
+
 .footer .company-info {
     display: flex;
     justify-content: flex-start;
@@ -1205,6 +1220,15 @@ body h1 {
         text-align: center;
     }
 
+    .integrations .icons img {
+        margin-right: 8px;
+        height: 20px;
+    }
+
+    .integrations .icons img.large {
+        height: 25px;
+    }
+
     .footer, .footer .company-info .signature {
         text-align: center;
     }
@@ -1227,4 +1251,7 @@ body h1 {
         margin-top: 10px;
     }
 
+    .services-ctn {
+        padding: 70px 15px 0 15px;
+    }
 }

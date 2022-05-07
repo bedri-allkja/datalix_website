@@ -23,23 +23,17 @@
                             </div>
 
                             <div class="icons">
-                                <img style="height: 35px; margin-right: 15px;"
+                                <img class="large"
                                      src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/salesforse.png"
                                      alt="">
-                                <img style="height: 25px; margin-right: 15px"
-                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hunter.png"
+                                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hunter.png"
                                      alt="">
-                                <img style="height: 36px; margin-right: 15px;"
+                                <img class="large"
                                      src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/norbert.png"
                                      alt="">
-                                <img style="height: 30px; margin-right: 15px"
-                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/kickbox.svg"
+                                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/kickbox.svg"
                                      alt="">
-                                <img style="height: 25px; margin-right: 10px"
-                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/snov-io.svg"
-                                     alt="">
-                                <img style="height: 40px;"
-                                     src=https://stg.datalix.com/wp-content/themes/datalix-child/"assets/img/hubspot.png"
+                                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/snov-io.svg"
                                      alt="">
                             </div>
                         </div>
