@@ -104,32 +104,32 @@
             <br><br>
             <div class="row text-center">
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png" alt="">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/increase.svg" alt="">
                     <div class="title">Increase Revenue</div>
                     <div class="subtitle">10x your prospecting pipeline by knowing the technologies they’re running
                         (ex. Ecommerce platform, Analytics, Live Chat, etc.).</div>
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png" alt="">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/minimize.svg" alt="">
                     <div class="title">Minimize Churn</div>
                     <div class="subtitle">Identify when competitor technologies are added to your customers’ websites</div>
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png" alt="">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/time.svg" alt="">
                     <div class="title">Save Time</div>
                     <div class="subtitle">Reduce Manual Time spent updating your CRM</div>
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png" alt="">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/settings.svg" alt="">
                     <div class="title">Maintain Accuracy</div>
                     <div class="subtitle">Keep your CRM records accurate via automation. Avoid human error and duplication.</div>
                 </div>
 
                 <div class="col feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png" alt="">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/verified.svg" alt="">
                     <div class="title">Source & Validate Contacts</div>
                     <div class="subtitle">Find and verify contact emails are working prior to contacting them.</div>
                 </div>
