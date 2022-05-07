@@ -16,7 +16,7 @@ body {
 }
 
 .custom-container {
-    width: 1400px !important;
+    /*width: 1400px !important;*/
     max-width: 1400px !important;
 }
 

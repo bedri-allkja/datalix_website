@@ -5,7 +5,7 @@
     <div class="fluid-container main">
         <div class="container custom-container">
             <div class="row main-section">
-                <div class="col">
+                <div class="col-lg-5 col-md-12 col-sm-12">
                     <div class="section-text">
                         Data <span>intelligence</span><br> for Sales & CS teams
                     </div>
@@ -16,7 +16,6 @@
                     <div class="call-to-action">
                         <a href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                     </div>
-
                     <div class="row" style="margin-top: 43px;">
                         <div class="col-12">
                             <div style="text-align: left; font-size: 14px; margin-bottom: 10px; color: #071c4d; opacity: .6;">
@@ -46,7 +45,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col app-image">
+                <div class="col-lg-7 col-md-6 col-sm-12app-image">
                     <img class="img-1"
                          src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-screen.png"
                          alt="">
@@ -91,7 +90,7 @@
     <div class="fluid-container" style="background-color: #090952; margin: 0; margin-top: 90px;">
         <br><br><br>
         <div class="container custom-container options-box">
-            <div class="row text-center" style="color: white">
+            <div class="row text-center d-flex justify-content-center" style="color: white">
                 <div class="col-12 feature-box">
                     <div style="font-size: 30px;  font-weight: 600;">Benefits</div>
                     <div class="subtitle">
@@ -102,33 +101,33 @@
                 </div>
             </div>
             <br><br>
-            <div class="row text-center">
-                <div class="col feature-box">
+            <div class="row text-center d-flex justify-content-center">
+                <div class="col-lg-2 col-md-6 col-sm-12 feature-box">
                     <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/increase.svg" alt="">
                     <div class="title">Increase Revenue</div>
                     <div class="subtitle">10x your prospecting pipeline by knowing the technologies they’re running
                         (ex. Ecommerce platform, Analytics, Live Chat, etc.).</div>
                 </div>
 
-                <div class="col feature-box">
+                <div class="col-lg-2 col-md-6 col-sm-12 feature-box">
                     <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/minimize.svg" alt="">
                     <div class="title">Minimize Churn</div>
                     <div class="subtitle">Identify when competitor technologies are added to your customers’ websites</div>
                 </div>
 
-                <div class="col feature-box">
+                <div class="col-lg-2 col-md-6 col-sm-12 feature-box">
                     <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/time.svg" alt="">
                     <div class="title">Save Time</div>
                     <div class="subtitle">Reduce Manual Time spent updating your CRM</div>
                 </div>
 
-                <div class="col feature-box">
+                <div class="col-lg-2 col-md-6 col-sm-12 feature-box">
                     <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/settings.svg" alt="">
                     <div class="title">Maintain Accuracy</div>
                     <div class="subtitle">Keep your CRM records accurate via automation. Avoid human error and duplication.</div>
                 </div>
 
-                <div class="col feature-box">
+                <div class="col-lg-2 col-md-6 col-sm-12 feature-box">
                     <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/verified.svg" alt="">
                     <div class="title">Source & Validate Contacts</div>
                     <div class="subtitle">Find and verify contact emails are working prior to contacting them.</div>
