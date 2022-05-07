@@ -1164,7 +1164,7 @@ body h1 {
 
 
 .singular .entry-title {
-    color: #090925;
+    color: #090952;
     font-weight: bold;
     font-family: 'Poppins';
     font-size: 42px !important;
@@ -1186,6 +1186,10 @@ body h1 {
 
 .entry-content p{
     color: #071c4d !important;
+}
+
+.entry-content {
+    font-size: 16px;
 }
 
 @media only screen and (max-width: 990px) {
@@ -1287,5 +1291,20 @@ body h1 {
 
     .main-section {
         height: 100% !important;
+    }
+
+    .entry-content {
+        padding: 0 25px;
+        font-size: 16px;
+    }
+
+    .singular .entry-header {
+        border-bottom: 3px solid #1ee3dd;
+        margin: 0px 25px;
+        padding-bottom: 20px;
+    }
+
+    .singular .entry-title {
+        font-size: 30px !important;
     }
 }
