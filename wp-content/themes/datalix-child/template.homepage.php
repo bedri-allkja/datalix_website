@@ -428,20 +428,20 @@
             </div>
             <br><br>
             <div class="row text-center">
-                <div class="col feature-box">
+                <div class="col-lg-3 col-md-6 col-sm-12 feature-box">
                     <div class="focused-text">25+</div>
                     <div class="title">Ecommerce Platforms</div>
                     <div class="subtitle">Datalix will pinpoint the ecommerce platform being used by a website including, but not limited to:
                         Shopify, ShopifyPlus, Bigcommerce, Magento, Salesforce Commerce Cloud, WooCommerce, Shift4Shop, and more.</div>
                 </div>
 
-                <div class="col feature-box">
+                <div class="col-lg-3 col-md-6 col-sm-12 feature-box">
                     <div class="focused-text">75+</div>
                     <div class="title">Marketing apps</div>
                     <div class="subtitle">Datalix identifies lots of MarTech solutions including Email, Text, Advertising, and more.</div>
                 </div>
 
-                <div class="col feature-box">
+                <div class="col-lg-3 col-md-6 col-sm-12 feature-box">
                     <div class="focused-text">45+</div>
                     <div class="title">Technographic data</div>
                     <div class="subtitle">Technology, Analytics, Email Marketing, Advertising, Hosting, Ecommerce &
@@ -449,7 +449,7 @@
                     </div>
                 </div>
 
-                <div class="col feature-box">
+                <div class="col-lg-3 col-md-6 col-sm-12 feature-box">
                     <div class="focused-text">100+</div>
                     <div class="title">SaaS providers</div>
                     <div class="subtitle">Datalix tracks lots of SaaS solutions including Payment, Customer Service,
