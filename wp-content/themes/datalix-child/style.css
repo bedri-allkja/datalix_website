@@ -1174,12 +1174,12 @@ body h1 {
     border-bottom: 3px solid #1ee3dd;
 }
 
-.entry-content {
+.post-thumbnail,
+.entry-content .wp-audio-shortcode,
+.entry-content > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.wp-block-separator):not(.woocommerce),
+*[class*=inner-container] > *:not(.entry-content):not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.wp-block-separator):not(.woocommerce),
+.default-max-width {
     max-width: 1240px;
-}
-
-.entry-content h2, .entry-content p, .entry-content div, .entry-content h3, .entry-content h2, .entry-content h4 {
-    margin: 0;
 }
 
 @media only screen and (max-width: 990px) {
