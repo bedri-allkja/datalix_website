@@ -433,8 +433,8 @@ body {
 
 
 .footer {
-    color: #f4f4f4;
-    padding: 70px 0 30px 0;
+    /*color: #f4f4f4;*/
+    /*padding: 70px 0 30px 0;*/
 }
 
 .footer  .light-hr {
@@ -442,6 +442,18 @@ body {
     width: 100%;
     background: #ffffff26;
     margin: 50px 0;
+}
+
+.footer .contact-col .title {
+    opacity: .7;
+    font-size: 14px;
+}
+
+.footer .contact-col .links {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    line-height: 1.8;
 }
 
 .options-box .light-hr {
@@ -1199,6 +1211,20 @@ body h1 {
 
     .footer .social-media, .footer .company-info  {
         justify-content: center;
+        margin: 0;
+    }
+
+    .footer .company-info img.logo {
+        width: 130px;
+        margin: 0 auto;
+    }
+
+    .footer .contact-col .title {
+        margin-top: 20px;
+    }
+
+    .footer .contact-col .links {
+        margin-top: 10px;
     }
 
 }

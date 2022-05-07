@@ -64,10 +64,10 @@
 
             </div>
             <div class="col-lg-4 col-md-2 col-lg-12"></div>
-            <div class="col-lg-2 col-md-4 col-lg-12">
-                <div style="opacity: .7">Contact Us</div>
+            <div class="col-lg-2 col-md-4 col-lg-12 contact-col">
+                <div class="title">Contact Us</div>
 
-                <div style="display: flex; flex-direction: column; margin-top: 25px; line-height: 1.8;">
+                <div class="links">
                     <a href="#" style="font-size: 14px; text-transform: none; color: white;">info@datalix.com</a>
                 </div>
             </div>
