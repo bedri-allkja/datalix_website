@@ -22,7 +22,7 @@
 <div class="container page-container">
     <br><br>
     <div class="row features">
-        <div class="col-6 feature-details">
+        <div class="col-lg-6 col-md-6 col-sm-12 feature-details">
             <div class="sub-title">#WhatAreYouWaitingFor?</div>
             <div class="title">Get Started</div>
             <div class="description">
@@ -36,7 +36,7 @@
             </div>
         </div>
 
-        <div class="col-6 feature-image">
+        <div class="col-lg-6 col-md-6 col-sm-12 feature-image">
             <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/call-to-action.svg">
         </div>
     </div>
@@ -49,7 +49,7 @@
 <div class="fluid-container" style="background-color: #090952">
     <div class="container page-container footer">
         <div class="row">
-            <div class="col-6">
+            <div class="col-lg-6 col-md-6 col-sm-12">
                 <div style="display: flex; justify-content: flex-start; flex-direction: column;">
                     <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-white.png"
                          style="width: 130px;">
@@ -85,8 +85,8 @@
             <!--                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Success Stories</a>-->
             <!--                    </div>-->
             <!--                </div>-->
-            <div class="col-4"></div>
-            <div class="col-2">
+            <div class="col-lg-4 col-md-2 col-lg-12"></div>
+            <div class="col-lg-2 col-md-4 col-lg-12">
                 <div style="opacity: .7">Contact Us</div>
 
                 <div style="display: flex; flex-direction: column; margin-top: 25px; line-height: 1.8;">
@@ -99,7 +99,7 @@
         <div class="light-hr"></div>
 
         <div class="row">
-            <div class="col-6">
+            <div class="col-lg-6 col-md-6 col-sm-12">
                 <div class="footer-bttm-text">Copyright © <span class="footer-span text-span-6">Datalix, LLC.</span>
                     2022 &nbsp;| &nbsp;All rights reserved. &nbsp;| &nbsp;<a
                             href="https://stg.datalix.com/wp-content/themes/datalix-child/privacy-policy"
@@ -108,7 +108,7 @@
                                 class="text-span-6" style="color: white;">Privacy</span></a></div>
             </div>
 
-            <div class="col-6">
+            <div class="col-lg-6 col-md-6 col-sm-12">
                 <div class="social-media">
                     <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
                     <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
