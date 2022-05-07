@@ -50,47 +50,24 @@
     <div class="container page-container footer">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12">
-                <div style="display: flex; justify-content: flex-start; flex-direction: column;">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-white.png"
-                         style="width: 130px;">
+                <div class="company-info">
+                    <img class="logo" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-white.png">
                     <div style="font-size: 14px; max-width: 600px; margin-top: 20px; opacity: .8; line-height: 1.8;">
                         Datalix is a Data as a Service (DaaS) company, providing technographic data for millions of
                         websites.
                     </div>
-                    <div style="font-size: 14px; text-align: left; margin-top: 25px">
+                    <div class="signature">
                         Designed with <i class="fa fa-heart" style="color: #e91e63;" aria-hidden="true"></i> by
                         Datalix dev team.
                     </div>
                 </div>
 
             </div>
-
-            <!--                <div class="col-2">-->
-            <!--                    <div style="opacity: .7">Our Services</div>-->
-            <!---->
-            <!--                    <div style="display: flex; flex-direction: column; margin-top: 25px; line-height: 2;">-->
-            <!--                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Lead Generation</a>-->
-            <!--                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Data Cleansing</a>-->
-            <!--                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Data Entry</a>-->
-            <!--                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Outbound Automation</a>-->
-            <!--                    </div>-->
-            <!--                </div>-->
-            <!--                <div class="col-2">-->
-            <!--                    <div style="opacity: .7">Why Datalix</div>-->
-            <!---->
-            <!--                    <div style="display: flex; flex-direction: column; margin-top: 25px; line-height: 1.8;">-->
-            <!--                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Pricing</a>-->
-            <!--                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Careers</a>-->
-            <!--                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Blog</a>-->
-            <!--                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Success Stories</a>-->
-            <!--                    </div>-->
-            <!--                </div>-->
             <div class="col-lg-4 col-md-2 col-lg-12"></div>
             <div class="col-lg-2 col-md-4 col-lg-12">
                 <div style="opacity: .7">Contact Us</div>
 
                 <div style="display: flex; flex-direction: column; margin-top: 25px; line-height: 1.8;">
-<!--                    <a href="#" style="font-size: 14px; text-transform: none; color: white;">Bethpage, NY</a>-->
                     <a href="#" style="font-size: 14px; text-transform: none; color: white;">info@datalix.com</a>
                 </div>
             </div>

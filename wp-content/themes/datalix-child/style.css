@@ -1115,6 +1115,22 @@ body h1 {
     text-align: left;
 }
 
+.footer .company-info {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.footer .company-info img.logo {
+    width: 130px;
+}
+
+.footer .company-info .signature {
+    font-size: 14px;
+    text-align: left;
+    margin-top: 25px
+}
+
 @media only screen and (max-width: 600px) {
     .service-row .feature-info:nth-child(odd), .service-row .feature-info:nth-child(even) {
         padding-left: 0 !important;
@@ -1147,7 +1163,11 @@ body h1 {
         max-width: unset !important;
     }
 
-    .features .feature-details{
+    .features .feature-details {
+        text-align: center;
+    }
+
+    .integrations .icons {
         text-align: center;
     }
 
@@ -1166,9 +1186,19 @@ body h1 {
 
     .main {
         overflow: inherit;
+        padding-top: 40px;
     }
 
     .integrations .label {
         text-align: center;
     }
+
+    .footer, .footer .company-info .signature {
+        text-align: center;
+    }
+
+    .footer .social-media, .footer .company-info  {
+        justify-content: center;
+    }
+
 }
