@@ -21,7 +21,7 @@
                 </div>
 
                 <div class="col-5 feature-image text-right" style="position: relative;">
-                    <img src="http://localhost/datalix-website/wp-content/themes/datalix-child/assets/img/services.png" style="margin-bottom: 0; margin-top: -30px; width: 80%">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/services.png" style="margin-bottom: 0; margin-top: -30px; width: 80%">
                 </div>
             </div>
             <br><br>
@@ -115,7 +115,7 @@
             <br><br><br>
             <div class="row" style="color: #ffffff;">
                 <div class="col-6 feature-box">
-                    <img src="http://localhost/datalix-website/wp-content/themes/datalix-child/assets/img/Group 425.svg" style="width: 100%">
+                    <img src="ccassets/img/Group 425.svg" style="width: 100%">
                 </div>
 
                 <div class="col feature-box" style="display: flex; flex-direction: column; justify-content: center;">

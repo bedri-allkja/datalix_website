@@ -18,18 +18,27 @@
  * @package WordPress
  */
 
+// Add support for reverse proxy
+if ( $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https' ) {
+    $_SERVER['HTTPS'] = 'on';
+    $_SERVER['SERVER_PORT'] = 443;
+}
+
+        define( 'WP_HOME', 'https://stg.datalix.com' );
+        define( 'WP_SITEURL', 'https://stg.datalix.com' );
+
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'datalix-website' );
+define( 'DB_NAME', getenv('WORDPRESS_DATABASE_NAME') );
 
 /** Database username */
-define( 'DB_USER', 'datalix' );
+define( 'DB_USER', getenv('WORDPRESS_DATABASE_USER') );
 
 /** Database password */
-define( 'DB_PASSWORD', '3nta1go!Tirana' );
+define( 'DB_PASSWORD', getenv('WORDPRESS_DATABASE_PASSWORD') );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', getenv('MARIADB_HOST') );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
@@ -93,4 +102,5 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /** Sets up WordPress vars and included files. */
+define( 'UPLOADS', 'wp-content/uploads' );
 require_once ABSPATH . 'wp-settings.php';
