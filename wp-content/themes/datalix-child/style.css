@@ -854,6 +854,10 @@ body {
     padding: 12px 0;
 }
 
+.footer-bttm-text a:focus {
+    outline: none;
+    background: transparent;
+}
 
 .footer .social-media {
     display: flex;
