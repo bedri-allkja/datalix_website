@@ -21,7 +21,7 @@
                 </div>
 
                 <div class="col-5 feature-image text-right" style="position: relative;">
-                    <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/services.png" style="margin-bottom: 0; margin-top: -30px; width: 80%">
+                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/services.png" style="margin-bottom: 0; margin-top: -30px; width: 80%">
                 </div>
             </div>
             <br><br>
