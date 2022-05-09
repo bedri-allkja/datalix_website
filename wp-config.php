@@ -24,8 +24,8 @@ if ( $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https' ) {
     $_SERVER['SERVER_PORT'] = 443;
 }
 
-        define( 'WP_HOME', 'https://stg.datalix.com' );
-        define( 'WP_SITEURL', 'https://stg.datalix.com' );
+        define( 'WP_HOME', 'https://datalix.com' );
+        define( 'WP_SITEURL', 'https://datalix.com' );
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */

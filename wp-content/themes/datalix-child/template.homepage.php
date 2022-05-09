@@ -24,16 +24,16 @@
 
                             <div class="icons">
                                 <img class="extra-large"
-                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/salesforse.png"
+                                     src="https://datalix.com/wp-content/themes/datalix-child/assets/img/salesforse.png"
                                      alt="">
-                                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hunter.png"
+                                <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/hunter.png"
                                      alt="">
                                 <img class="large"
-                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/norbert.png"
+                                     src="https://datalix.com/wp-content/themes/datalix-child/assets/img/norbert.png"
                                      alt="">
-                                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/kickbox.svg"
+                                <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/kickbox.svg"
                                      alt="">
-                                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/snov-io.svg"
+                                <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/snov-io.svg"
                                      alt="">
                             </div>
                         </div>
@@ -41,7 +41,7 @@
                 </div>
                 <div class="col-lg-7 col-md-6 col-sm-12 app-image">
                     <img class="img-1"
-                         src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-screen.png"
+                         src="https://datalix.com/wp-content/themes/datalix-child/assets/img/datalix-screen.png"
                          alt="">
                 </div>
             </div>
@@ -58,22 +58,22 @@
 <!---->
 <!--                    <div style="text-align: left;">-->
 <!--                        <img style="height: 50px; margin-top: 6px; margin-right: 20px;"-->
-<!--                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/salesforse.png"-->
+<!--                             src="https://datalix.com/wp-content/themes/datalix-child/assets/img/salesforse.png"-->
 <!--                             alt="">-->
 <!--                        <img style="height: 30px; margin-right: 20px"-->
-<!--                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/hunter.png"-->
+<!--                             src="https://datalix.com/wp-content/themes/datalix-child/assets/img/hunter.png"-->
 <!--                             alt="">-->
 <!--                        <img style="height: 50px; margin-top: 6px; margin-right: 20px;"-->
-<!--                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/norbert.png"-->
+<!--                             src="https://datalix.com/wp-content/themes/datalix-child/assets/img/norbert.png"-->
 <!--                             alt="">-->
 <!--                        <img style="height: 40px; margin-right: 20px"-->
-<!--                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/kickbox.svg"-->
+<!--                             src="https://datalix.com/wp-content/themes/datalix-child/assets/img/kickbox.svg"-->
 <!--                             alt="">-->
 <!--                        <img style="height: 30px; margin-right: 20px"-->
-<!--                             src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/snov-io.svg"-->
+<!--                             src="https://datalix.com/wp-content/themes/datalix-child/assets/img/snov-io.svg"-->
 <!--                             alt="">-->
 <!--                        <img style="height: 40px;"-->
-<!--                             src=https://stg.datalix.com/wp-content/themes/datalix-child/"assets/img/hubspot.png"-->
+<!--                             src=https://datalix.com/wp-content/themes/datalix-child/"assets/img/hubspot.png"-->
 <!--                             alt="">-->
 <!--                    </div>-->
 <!--                </div>-->
@@ -97,32 +97,32 @@
             <br><br>
             <div class="row text-center d-flex justify-content-center">
                 <div class="col-lg-2 col-md-6 col-sm-12 feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/increase.svg" alt="">
+                    <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/increase.svg" alt="">
                     <div class="title">Increase Revenue</div>
                     <div class="subtitle">10x your prospecting pipeline by knowing the technologies they’re running
                         (ex. Ecommerce platform, Analytics, Live Chat, etc.).</div>
                 </div>
 
                 <div class="col-lg-2 col-md-6 col-sm-12 feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/minimize.svg" alt="">
+                    <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/minimize.svg" alt="">
                     <div class="title">Minimize Churn</div>
                     <div class="subtitle">Identify when competitor technologies are added to your customers’ websites</div>
                 </div>
 
                 <div class="col-lg-2 col-md-6 col-sm-12 feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/time.svg" alt="">
+                    <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/time.svg" alt="">
                     <div class="title">Save Time</div>
                     <div class="subtitle">Reduce Manual Time spent updating your CRM</div>
                 </div>
 
                 <div class="col-lg-2 col-md-6 col-sm-12 feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/settings.svg" alt="">
+                    <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/settings.svg" alt="">
                     <div class="title">Maintain Accuracy</div>
                     <div class="subtitle">Keep your CRM records accurate via automation. Avoid human error and duplication.</div>
                 </div>
 
                 <div class="col-lg-2 col-md-6 col-sm-12 feature-box">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/verified.svg" alt="">
+                    <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/verified.svg" alt="">
                     <div class="title">Source & Validate Contacts</div>
                     <div class="subtitle">Find and verify contact emails are working prior to contacting them.</div>
                 </div>
@@ -136,7 +136,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="services-icon">
-                        <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
+                        <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
                     </div>
                     <div class="services-title">How it works</div>
                     <div class="services-subtitle">
@@ -149,7 +149,7 @@
             <div class="row service-row">
                 <div class="col-lg-6 col-md-12 col-sm-12 feature-info">
                     <div class="service-small-title">
-                        <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
+                        <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
                         Step 1
                     </div>
                     <div class="service-title">Connect your Salesforce CRM</div>
@@ -159,26 +159,26 @@
                         that is also available.
                     </div>
 <!--                    <div class="service-features">-->
-<!--                        <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Reduce bounces by removing bad emails from your lists.</div>-->
-<!--                        <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Improve your email deliverability by up to 99%.</div>-->
-<!--                        <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Add email validation features to your own app using our APIs.</div>-->
+<!--                        <div class="feature"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Reduce bounces by removing bad emails from your lists.</div>-->
+<!--                        <div class="feature"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Improve your email deliverability by up to 99%.</div>-->
+<!--                        <div class="feature"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Add email validation features to your own app using our APIs.</div>-->
 <!--                    </div>-->
                     <br>
                     <a class="link" href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 text-center feature-image">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
+                    <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/connected-apps.png" alt="">
                 </div>
             </div>
 
             <div class="row service-row">
                 <div class="col-lg-6 col-md-12 col-sm-12 text-center feature-image">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-import.png" alt="">
+                    <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/bulk-import.png" alt="">
                 </div>
 
                 <div class="col-lg-6 col-md-12 col-sm-12 feature-info">
                     <div class="service-small-title">
-                        <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
+                        <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
                         Step 2
                     </div>
                     <div class="service-title">Create a Report</div>
@@ -187,9 +187,9 @@
                         You can upload a CSV file or choose one of your Salesforce Reports.
                     </div>
 <!--                    <div class="service-features">-->
-<!--                        <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Reduce bounces by removing bad emails from your lists.</div>-->
-<!--                        <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Improve your email deliverability by up to 99%.</div>-->
-<!--                        <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Add email validation features to your own app using our APIs.</div>-->
+<!--                        <div class="feature"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Reduce bounces by removing bad emails from your lists.</div>-->
+<!--                        <div class="feature"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Improve your email deliverability by up to 99%.</div>-->
+<!--                        <div class="feature"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Add email validation features to your own app using our APIs.</div>-->
 <!--                    </div>-->
                     <br>
                     <a class="link" href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
@@ -199,7 +199,7 @@
             <div class="row service-row">
                 <div class="col-lg-6 col-md-12 col-sm-12 feature-info">
                     <div class="service-small-title">
-                        <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
+                        <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/dashboard.svg" alt="">
                         Step 3
                     </div>
                     <div class="service-title">Datalix works its magic!</div>
@@ -208,15 +208,15 @@
                         It will then give you the option to export the results as a CSV or to update automatically in Salesforce.
                     </div>
 <!--                    <div class="service-features">-->
-<!--                        <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Reduce bounces by removing bad emails from your lists.</div>-->
-<!--                        <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Improve your email deliverability by up to 99%.</div>-->
-<!--                        <div class="feature"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Add email validation features to your own app using our APIs.</div>-->
+<!--                        <div class="feature"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Reduce bounces by removing bad emails from your lists.</div>-->
+<!--                        <div class="feature"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Improve your email deliverability by up to 99%.</div>-->
+<!--                        <div class="feature"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg">Add email validation features to your own app using our APIs.</div>-->
 <!--                    </div>-->
                     <br>
                     <a class="link" href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 text-center feature-image">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/tech-chart.png" alt="">
+                    <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/tech-chart.png" alt="">
                 </div>
             </div>
         </div>
@@ -310,27 +310,27 @@
 <!--                        <div class="content">-->
 <!--                            <section>-->
 <!--                                <img style="height: 120%;  margin: -40px;"-->
-<!--                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png"-->
+<!--                                     src="https://datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png"-->
 <!--                                     alt="">-->
 <!--                            </section>-->
 <!--                            <section>-->
 <!--                                <img style="height: 120%;  margin: -40px;"-->
-<!--                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png"-->
+<!--                                     src="https://datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png"-->
 <!--                                     alt="">-->
 <!--                            </section>-->
 <!--                            <section>-->
 <!--                                <img style="height: 120%;  margin: -40px;"-->
-<!--                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png"-->
+<!--                                     src="https://datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png"-->
 <!--                                     alt="">-->
 <!--                            </section>-->
 <!--                            <section>-->
 <!--                                <img style="height: 120%;  margin: -40px;"-->
-<!--                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png"-->
+<!--                                     src="https://datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png"-->
 <!--                                     alt="">-->
 <!--                            </section>-->
 <!--                            <section>-->
 <!--                                <img style="height: 120%;  margin: -40px;"-->
-<!--                                     src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png"-->
+<!--                                     src="https://datalix.com/wp-content/themes/datalix-child/assets/img/bulk-email.png"-->
 <!--                                     alt="">-->
 <!--                            </section>-->
 <!--                        </div>-->
@@ -355,7 +355,7 @@
 <!--    <div class="container page-container" style="margin-top: 10px;">-->
 <!--        <div class="row features">-->
 <!--            <div class="col feature-image">-->
-<!--                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/2.png" alt="">-->
+<!--                <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/2.png" alt="">-->
 <!--            </div>-->
 <!--            <div class="col feature-details">-->
 <!--                            <div class="sub-title">#OurServices</div>-->
@@ -384,13 +384,13 @@
 <!--            </div>-->
 <!---->
 <!--            <div class="col feature-image">-->
-<!--                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/2.png" alt="">-->
+<!--                <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/2.png" alt="">-->
 <!--            </div>-->
 <!--        </div>-->
 <!---->
 <!--        <div class="row features">-->
 <!--            <div class="col feature-image">-->
-<!--                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/2.png" alt="">-->
+<!--                <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/2.png" alt="">-->
 <!--            </div>-->
 <!--            <div class="col feature-details">-->
 <!--                              <div class="sub-title">#OurServices</div>-->
