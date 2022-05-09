@@ -20,7 +20,7 @@
             </div>
 
             <div class="col-6 feature-image text-right">
-                <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/services.png" style="margin-bottom: 0; margin-top: -30px; width: 80%">
+                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/services.png" style="margin-bottom: 0; margin-top: -30px; width: 80%">
             </div>
         </div>
         <br><br>
@@ -47,7 +47,7 @@
                         Architecto at illo impedit rerum illo impedit totam!
                     </div>
 
-                    <img style="" src="https://datalix.com/wp-content/themes/datalix-child/assets/img/customer-services-1.png">
+                    <img style="" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/customer-services-1.png">
 
                     <div class="plan-feature-btn">
                         <a href="">Contact us</a>
@@ -64,16 +64,16 @@
                     </div>
 
                     <div class="services-list">
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 25–35+ Est. Meetings / Qtr</div>
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Sales Playbook</div>
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Contact Research</div>
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 1 Dedicated Cold Calling SDR</div>
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Sales Playbook</div>
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Contact Research</div>
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 1 Dedicated Cold Calling SDR</div>
-                        <div class="service disabled"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Sales Playbook</div>
-                        <div class="service disabled"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Contact Research</div>
-                        <div class="service disabled"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 1 Dedicated Cold Calling SDR
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 25–35+ Est. Meetings / Qtr</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Sales Playbook</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Contact Research</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 1 Dedicated Cold Calling SDR</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Sales Playbook</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Contact Research</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 1 Dedicated Cold Calling SDR</div>
+                        <div class="service disabled"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Sales Playbook</div>
+                        <div class="service disabled"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Contact Research</div>
+                        <div class="service disabled"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 1 Dedicated Cold Calling SDR
                         </div>
                     </div>
 
@@ -92,16 +92,16 @@
                     </div>
 
                     <div class="services-list">
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 25–35+ Est. Meetings / Qtr</div>
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Sales Playbook</div>
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Contact Research</div>
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 1 Dedicated Cold Calling SDR</div>
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Sales Playbook</div>
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Contact Research</div>
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 1 Dedicated Cold Calling SDR</div>
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Sales Playbook</div>
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Contact Research</div>
-                        <div class="service"><img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 1 Dedicated Cold Calling SDR</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 25–35+ Est. Meetings / Qtr</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Sales Playbook</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Contact Research</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 1 Dedicated Cold Calling SDR</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Sales Playbook</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Contact Research</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 1 Dedicated Cold Calling SDR</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Sales Playbook</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> Custom Contact Research</div>
+                        <div class="service"><img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/check.svg"> 1 Dedicated Cold Calling SDR</div>
                     </div>
 
                     <div class="plan-btn">
