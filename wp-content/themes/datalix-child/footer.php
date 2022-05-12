@@ -79,10 +79,10 @@
             <div class="col-lg-6 col-md-6 col-sm-12">
                 <div class="footer-bttm-text">Copyright © <span class="footer-span text-span-6">Datalix, LLC.</span>
                     2022 &nbsp;| &nbsp;All rights reserved.  &nbsp;| &nbsp;
-                    <a href="https://datalix.com/privacy-policy/" class="link-2">
+                    <a href="https://datalix.com/privacy-policy/" target="_blank" class="link-2">
                         <span class="text-span-6" style="color: white;">Privacy</span></a> &nbsp;| &nbsp;
 
-                    <a href="https://datalix.com/terms/" class="link-2">
+                    <a href="https://datalix.com/terms/" target="_blank" class="link-2">
                         <span class="text-span-6" style="color: white;">Terms</span></a>
                 </div>
             </div>
