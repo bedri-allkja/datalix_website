@@ -12,111 +12,93 @@
  */
 
 ?>
-			</main><!-- #main -->
-		</div><!-- #primary -->
-	</div><!-- #content -->
+</main><!-- #main -->
+</div><!-- #primary -->
+</div><!-- #content -->
 
 <!--	--><?php //get_template_part( 'template-parts/footer/footer-widgets' ); ?>
 
-    <div class="container page-container">
-        <br><br>
-        <div class="row features">
-            <div class="col-6 feature-details">
-                <div class="sub-title">#StayInTouch</div>
-                <div class="title">Get Started</div>
-                <div class="description">
-                    Need to quickly ramp up your Lead pipeline? <br>
-                    Contact us today to find out how Datalix can help.
-                </div>
-                <div class="btn-section">
-                    <input type="email" class="form-control" id="exampleFormControlInput1"
-                           placeholder="Enter your email">
-                    <a href="">Get Started</a>
-                </div>
-            </div>
 
-            <div class="col-6 feature-image">
-                <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/call-to-action.svg">
+<div class="container page-container">
+    <br><br>
+    <div class="row features">
+        <div class="col-lg-6 col-md-6 col-sm-12 feature-details">
+            <div class="sub-title">#WhatAreYouWaitingFor?</div>
+            <div class="title">Get Started</div>
+            <div class="description">
+                Technographic data results in more targeted prospecting. <br>
+                10x your Sales pipeline! Start you free trial today (no credit cards required).
+            </div>
+            <div class="btn-section">
+<!--                <input type="email" class="form-control" id="exampleFormControlInput1"-->
+<!--                       placeholder="Enter your email">-->
+                <a href="https://app.datalix.com/auth/register" target="_blank">Start Free Trial</a>
             </div>
         </div>
 
-        <br>
-        <br>
-        <br>
-    </div>
-
-    <div class="fluid-container" style="background-color: #090952">
-        <div class="container page-container footer">
-            <div class="row">
-                <div class="col-6">
-                    <div style="display: flex; justify-content: flex-start; flex-direction: column;">
-                        <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-white.png" style="width: 130px;">
-                        <div style="font-size: 14px; max-width: 600px; margin-top: 20px; opacity: .8; line-height: 1.8;">
-                            We create qualified sales opportunities by providing personalized data around niche data
-                            segments and combining this data with multi-channel prospecting campaigns.
-                        </div>
-                        <div style="font-size: 14px; text-align: left; margin-top: 25px">
-                            Designed with <i class="fa fa-heart" style="color: #e91e63;" aria-hidden="true"></i> by
-                            Datalix dev team.
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="col-2">
-                    <div style="opacity: .7">Our Services</div>
-
-                    <div style="display: flex; flex-direction: column; margin-top: 25px; line-height: 2;">
-                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Lead Generation</a>
-                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Data Cleansing</a>
-                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Data Entry</a>
-                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Outbound Automation</a>
-                    </div>
-                </div>
-                <div class="col-2">
-                    <div style="opacity: .7">Why Datalix</div>
-
-                    <div style="display: flex; flex-direction: column; margin-top: 25px; line-height: 1.8;">
-                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Pricing</a>
-                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Careers</a>
-                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Blog</a>
-                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Success Stories</a>
-                    </div>
-                </div>
-                <div class="col-2">
-                    <div style="opacity: .7">Contact Us</div>
-
-                    <div style="display: flex; flex-direction: column; margin-top: 25px; line-height: 1.8;">
-                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Tirana, Albania</a>
-                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">Bethpage, NY</a>
-                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">203.548.7726</a>
-                        <a href="#" style="font-size: 14px; text-transform: none; color: white;">info@datalix.com</a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="light-hr"></div>
-
-            <div class="row">
-                <div class="col-6">
-                    <div class="footer-bttm-text">Copyright © <span class="footer-span text-span-6">Datalix, LLC.</span>
-                        2021 &nbsp;| &nbsp;All rights reserved. &nbsp;| &nbsp;<a href="https://stg.datalix.com/wp-content/themes/datalix-child/privacy-policy"
-                                                                                 class="link-2"><span
-                                    class="text-span-6" style="color: white;">Privacy</span></a></div>
-                </div>
-
-                <div class="col-6">
-                    <div class="social-media">
-                        <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                        <!--                        <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>-->
-                        <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                        <a href=""><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
-                    </div>
-                </div>
-            </div>
-            <br>
+        <div class="col-lg-6 col-md-6 col-sm-12 feature-image">
+            <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/call-to-action.svg">
         </div>
     </div>
+
+    <br>
+    <br>
+    <br>
+</div>
+
+<div class="fluid-container" style="background-color: #090952">
+    <div class="container page-container footer">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="company-info">
+                    <img class="logo" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-white.png">
+                    <div style="font-size: 14px; max-width: 600px; margin-top: 20px; opacity: .8; line-height: 1.8;">
+                        Datalix is a Data as a Service (DaaS) company, providing technographic data for Sales,
+                        Marketing, Customer Success, and Partnerships teams on millions of websites.
+                    </div>
+                    <div class="signature">
+                        Designed with <i class="fa fa-heart" style="color: #e91e63;" aria-hidden="true"></i> by
+                        Datalix dev team.
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-lg-4 col-md-2 col-sm-12"></div>
+            <div class="col-lg-2 col-md-4 col-sm-12 contact-col">
+                <div class="title">Contact Us</div>
+
+                <div class="links">
+                    <a href="mailto:info@datalix.com" style="font-size: 14px; text-transform: none; color: white;">info@datalix.com</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="light-hr"></div>
+
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="footer-bttm-text">Copyright © <span class="footer-span text-span-6">Datalix, LLC.</span>
+                    2022 &nbsp;| &nbsp;All rights reserved.  &nbsp;| &nbsp;
+                    <a href="https://stg.datalix.com/privacy-policy/" class="link-2">
+                        <span class="text-span-6" style="color: white;">Privacy</span></a> &nbsp;| &nbsp;
+
+                    <a href="https://stg.datalix.com/terms/" class="link-2">
+                        <span class="text-span-6" style="color: white;">Terms</span></a>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-sm-12">
+<!--                <div class="social-media">-->
+<!--                    <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>-->
+<!--                    <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>-->
+<!--                    <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>-->
+<!--                    <a href=""><i class="fa fa-youtube-play" aria-hidden="true"></i></a>-->
+<!--                </div>-->
+            </div>
+        </div>
+        <br>
+    </div>
+</div>
 
 </div><!-- #page -->
 

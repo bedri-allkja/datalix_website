@@ -19,6 +19,7 @@
     <base href="https://stg.datalix.com/">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="icon" type="image/x-icon" href="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png">
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
     <link rel="stylesheet" href="https://stg.datalix.com/wp-content/themes/datalix-child/assets/font-awesome-4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://stg.datalix.com/wp-content/themes/datalix-child/style.css">
