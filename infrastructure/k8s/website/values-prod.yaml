@@ -136,8 +136,7 @@ wordpressSkipInstall: true
 ##   @ini_set( 'post_max_size', '128M');
 ##   @ini_set( 'memory_limit', '256M' );
 ##
-wordpressExtraConfigContent: |
-  define( 'WP_HOME', 'https://datalix.com' );
+wordpressExtraConfigContent: ""
 ## @param wordpressConfiguration The content for your custom wp-config.php file (advanced feature)
 ## NOTE: This will override configuring WordPress based on environment variables (including those set by the chart)
 ## NOTE: Currently only supported when `wordpressSkipInstall=true`
@@ -232,6 +231,8 @@ args: []
 extraEnvVars:
   - name: WP_HOSTNAME
     value: datalix.com
+  - name: WP_ENV
+    value: prod
 ## @param extraEnvVarsCM Name of existing ConfigMap containing extra env vars
 ##
 extraEnvVarsCM: ""

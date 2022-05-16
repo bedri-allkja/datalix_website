@@ -231,6 +231,8 @@ args: []
 extraEnvVars:
   - name: WP_HOSTNAME
     value: stg.datalix.com
+  - name: WP_ENV
+    value: stg
 ## @param extraEnvVarsCM Name of existing ConfigMap containing extra env vars
 ##
 extraEnvVarsCM: ""
