@@ -37,6 +37,9 @@ if ( $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https' ) {
     $_SERVER['SERVER_PORT'] = 443;
 }
 
+// Configure hostname depends on environment
+define( 'WP_HOME', getenv('WP_HOSTNAME') );
+
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', getenv('WORDPRESS_DATABASE_NAME') );
