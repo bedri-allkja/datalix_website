@@ -38,7 +38,7 @@ if ($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') {
 }
 
 define('WP_HOME', 'https://datalix.com');
-//define('WP_SITEURL', 'https://datalix.com');
+define('WP_SITEURL', 'https://datalix.com');
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
