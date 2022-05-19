@@ -129,7 +129,7 @@ wordpressScheme: http
 ## NOTE: useful if you use an external database that already contains WordPress data
 ## ref: https://github.com/bitnami/bitnami-docker-wordpress#connect-wordpress-docker-container-to-an-existing-database
 ##
-wordpressSkipInstall: false
+wordpressSkipInstall: true
 ## @param wordpressExtraConfigContent Add extra content to the default wp-config.php file
 ## e.g:
 ## wordpressExtraConfigContent: |
@@ -228,7 +228,11 @@ args: []
 ##   - name: FOO
 ##     value: "bar"
 ##
-extraEnvVars: []
+extraEnvVars:
+  - name: WP_HOSTNAME
+    value: datalix.com
+  - name: WP_ENV
+    value: prod
 ## @param extraEnvVarsCM Name of existing ConfigMap containing extra env vars
 ##
 extraEnvVarsCM: ""
@@ -398,7 +402,7 @@ extraContainerPorts: []
 ##
 podSecurityContext:
   enabled: true
-  fsGroup: 1001
+  fsGroup: 33
 ## Configure Container Security Context (only main container)
 ## ref: https://kubernetes.io/docs/tasks/configure-pod-container/security-context/#set-the-security-context-for-a-container
 ## @param containerSecurityContext.enabled Enabled WordPress containers' Security Context
@@ -407,7 +411,7 @@ podSecurityContext:
 ##
 containerSecurityContext:
   enabled: true
-  runAsUser: 1001
+  runAsUser: 33
   runAsNonRoot: true
 ## Configure extra options for WordPress containers' liveness, readiness and startup probes
 ## ref: https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/#configure-probes

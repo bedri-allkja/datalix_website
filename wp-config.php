@@ -1,17 +1,22 @@
 <?php
 
-// Enable WP_DEBUG mode
-define('WP_DEBUG', true);
+/* Enable debugging for non-prod environments */
+if (getenv('WP_ENV') != 'prod')
+{
+  // Enable WP_DEBUG mode
+  define( 'WP_DEBUG', true );
 
-// Enable Debug logging to the /wp-content/debug.log file
-define('WP_DEBUG_LOG', true);
+  // Enable Debug logging to the /wp-content/debug.log file
+  define( 'WP_DEBUG_LOG', true );
 
-// Disable display of errors and warnings
-define('WP_DEBUG_DISPLAY', true);
-@ini_set('display_errors', 1);
+  // Disable display of errors and warnings
+  define( 'WP_DEBUG_DISPLAY', true );
+  @ini_set( 'display_errors', 1 );
 
-// Use dev versions of core JS and CSS files (only needed if you are modifying these core files)
-define('SCRIPT_DEBUG', true);
+  // Use dev versions of core JS and CSS files (only needed if you are modifying these core files)
+  define( 'SCRIPT_DEBUG', true );
+}
+
 /**
  * The base configuration for WordPress
  *
@@ -37,8 +42,8 @@ if ($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') {
     $_SERVER['SERVER_PORT'] = 443;
 }
 
-define('WP_HOME', 'https://datalix.com');
-define('WP_SITEURL', 'https://datalix.com');
+// Configure hostname depends on environment
+define( 'WP_HOME', getenv('WP_HOSTNAME') );
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
@@ -88,23 +93,6 @@ define('NONCE_SALT', 'pRjx!g?X,fG*Ib?25!0J/)(GMNNQ+3JjFmD4Jolr,shzIHyH!P<V1w,xFP
  * a unique prefix. Only numbers, letters, and underscores please!
  */
 $table_prefix = 'wp_';
-
-/**
- * For developers: WordPress debugging mode.
- *
- * Change this to true to enable the display of notices during development.
- * It is strongly recommended that plugin and theme developers use WP_DEBUG
- * in their development environments.
- *
- * For information on other constants that can be used for debugging,
- * visit the documentation.
- *
- * @link https://wordpress.org/support/article/debugging-in-wordpress/
- */
-define('WP_DEBUG', true);
-
-/* Add any custom values between this line and the "stop editing" line. */
-
 
 /* That's all, stop editing! Happy publishing. */
 

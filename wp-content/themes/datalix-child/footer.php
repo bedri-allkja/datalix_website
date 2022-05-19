@@ -37,7 +37,7 @@
         </div>
 
         <div class="col-lg-6 col-md-6 col-sm-12 feature-image">
-            <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/call-to-action.svg">
+            <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/call-to-action.svg">
         </div>
     </div>
 
@@ -51,7 +51,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12">
                 <div class="company-info">
-                    <img class="logo" src="https://datalix.com/wp-content/themes/datalix-child/assets/img/datalix-white.png">
+                    <img class="logo" src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-white.png">
                     <div style="font-size: 14px; max-width: 600px; margin-top: 20px; opacity: .8; line-height: 1.8;">
                         Datalix is a Data as a Service (DaaS) company, providing technographic data for Sales,
                         Marketing, Customer Success, and Partnerships teams on millions of websites.

@@ -19,10 +19,10 @@
 <!--    <base href="https://datalix.com/">-->
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="icon" type="image/x-icon" href="https://datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png">
+    <link rel="icon" type="image/x-icon" href="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png">
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <link rel="stylesheet" href="https://datalix.com/wp-content/themes/datalix-child/assets/font-awesome-4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://datalix.com/wp-content/themes/datalix-child/style.css">
+    <link rel="stylesheet" href="https://stg.datalix.com/wp-content/themes/datalix-child/assets/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://stg.datalix.com/wp-content/themes/datalix-child/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,500;0,700;1,600&display=swap"
           rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
