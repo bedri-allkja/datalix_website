@@ -43,7 +43,8 @@ if ($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') {
 }
 
 // Configure hostname depends on environment
-define( 'WP_HOME', getenv('WP_HOSTNAME') );
+define('WP_HOME', getenv('WP_HOSTNAME'));
+define('WP_SITEURL', getenv('WP_HOSTNAME'));
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
