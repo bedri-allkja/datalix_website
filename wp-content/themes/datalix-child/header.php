@@ -16,7 +16,7 @@
 <html <?php language_attributes(); ?> <?php twentytwentyone_the_html_classes(); ?>>
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
-    <base href="https://stg.datalix.com/">
+<!--    <base href="https://datalix.com/">-->
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="icon" type="image/x-icon" href="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix-fav.png">
@@ -34,7 +34,9 @@
 <body <?php body_class(); ?>>
 <?php wp_body_open(); ?>
 <div id="page" class="site">
-	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'twentytwentyone' ); ?></a>
+<!--	<a class="skip-link screen-reader-text" href="#content">-->
+<!--        --><?php //esc_html_e( 'Skip to content', 'twentytwentyone' ); ?>
+<!--    </a>-->
 
 	<?php get_template_part( 'template-parts/header/site-header' ); ?>
 
