@@ -24,8 +24,8 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
     <div class="container custom-container">
         <div class="row header-menu">
             <div class="left-menu">
-                <a href="https://stg.datalix.com/">
-                    <img src="https://stg.datalix.com/wp-content/themes/datalix-child/assets/img/datalix.png" class="logo">
+                <a href="https://datalix.com/">
+                    <img src="https://datalix.com/wp-content/themes/datalix-child/assets/img/datalix.png" class="logo">
                 </a>
 <!--                <div class="menu-items">-->
 <!--                    <a href="" id="services-drop">Solutions</a>-->
