@@ -129,7 +129,7 @@ wordpressScheme: http
 ## NOTE: useful if you use an external database that already contains WordPress data
 ## ref: https://github.com/bitnami/bitnami-docker-wordpress#connect-wordpress-docker-container-to-an-existing-database
 ##
-wordpressSkipInstall: true
+wordpressSkipInstall: false
 ## @param wordpressExtraConfigContent Add extra content to the default wp-config.php file
 ## e.g:
 ## wordpressExtraConfigContent: |
@@ -386,8 +386,8 @@ resources:
 ## @param containerPorts.https WordPress HTTPS container port
 ##
 containerPorts:
-  http: 80
-  https: 443
+  http: 8080
+  https: 8443
 ## @param extraContainerPorts Optionally specify extra list of additional ports for WordPress container(s)
 ## e.g:
 ## extraContainerPorts:
@@ -402,7 +402,7 @@ extraContainerPorts: []
 ##
 podSecurityContext:
   enabled: true
-  fsGroup: 33
+  fsGroup: 1001
 ## Configure Container Security Context (only main container)
 ## ref: https://kubernetes.io/docs/tasks/configure-pod-container/security-context/#set-the-security-context-for-a-container
 ## @param containerSecurityContext.enabled Enabled WordPress containers' Security Context
@@ -411,7 +411,7 @@ podSecurityContext:
 ##
 containerSecurityContext:
   enabled: true
-  runAsUser: 33
+  runAsUser: 1001
   runAsNonRoot: true
 ## Configure extra options for WordPress containers' liveness, readiness and startup probes
 ## ref: https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/#configure-probes
@@ -528,8 +528,8 @@ service:
   ## @param service.ports.https WordPress service HTTPS port
   ##
   ports:
-    http: 80
-    https: 443
+    http: 8080
+    https: 8443
   ## @param service.httpsTargetPort Target port for HTTPS
   ##
   httpsTargetPort: https
@@ -546,6 +546,12 @@ service:
   ## ref: https://kubernetes.io/docs/user-guide/services/
   ##
   sessionAffinity: None
+  ## @param service.sessionAffinityConfig Additional settings for the sessionAffinity
+  ## sessionAffinityConfig:
+  ##   clientIP:
+  ##     timeoutSeconds: 300
+  ##
+  sessionAffinityConfig: {}
   ## @param service.clusterIP WordPress service Cluster IP
   ## e.g.:
   ## clusterIP: None
@@ -681,6 +687,20 @@ ingress:
   ##       -----END CERTIFICATE-----
   ##
   secrets: []
+  ## @param ingress.extraRules Additional rules to be covered with this ingress record
+  ## ref: https://kubernetes.io/docs/concepts/services-networking/ingress/#ingress-rules
+  ## e.g:
+  ## extraRules:
+  ## - host: wordpress.local
+  ##     http:
+  ##       path: /
+  ##       backend:
+  ##         service:
+  ##           name: wordpress-svc
+  ##           port:
+  ##             name: http
+  ##
+  extraRules: []
 
 ## @section Persistence Parameters
 ##
@@ -722,6 +742,9 @@ persistence:
   ##     app: my-app
   ##
   selector: {}
+  ## @param persistence.annotations Persistent Volume Claim annotations
+  ##
+  annotations: {}
 
 ## Init containers parameters:
 ## volumePermissions: Change the owner and group of the persistent volume(s) mountpoint(s) to 'runAsUser:fsGroup' on each node
@@ -741,7 +764,7 @@ volumePermissions:
   image:
     registry: docker.io
     repository: bitnami/bitnami-shell
-    tag: 10-debian-10-r408
+    tag: 10-debian-10-r434
     pullPolicy: IfNotPresent
     ## Optionally specify an array of imagePullSecrets.
     ## Secrets must be manually created in the namespace.
@@ -833,7 +856,7 @@ metrics:
   image:
     registry: docker.io
     repository: bitnami/apache-exporter
-    tag: 0.11.0-debian-10-r128
+    tag: 0.11.0-debian-10-r154
     pullPolicy: IfNotPresent
     ## Optionally specify an array of imagePullSecrets.
     ## Secrets must be manually created in the namespace.
