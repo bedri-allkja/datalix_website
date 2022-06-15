@@ -1,6 +1,4 @@
-FROM wordpress
+FROM bitnami/wordpress:latest
 
-RUN apt update && apt-get install -y nano
-
-RUN rm -rf /var/www/html/*
-COPY --chown=33:33 . /var/www/html
+#COPY wp-content/plugins /opt/bitnami/wordpress/wp-content/plugins
+COPY --chown=1001:1001 wp-content/themes /opt/bitnami/wordpress/wp-content/themes
